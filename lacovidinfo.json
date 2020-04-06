@@ -1,0 +1,1674 @@
+{
+    "lacitiescovid": [
+        {
+            "city": "City of Agoura Hills", 
+            "cases": "18", 
+            "rate": "85.03"
+        }, 
+        {
+            "city": "City of Alhambra", 
+            "cases": "21", 
+            "rate": "24.22"
+        }, 
+        {
+            "city": "City of Arcadia", 
+            "cases": "14", 
+            "rate": "24.56"
+        }, 
+        {
+            "city": "City of Artesia", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of Avalon", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "City of Azusa", 
+            "cases": "13", 
+            "rate": "26.27"
+        }, 
+        {
+            "city": "City of Baldwin Park", 
+            "cases": "10", 
+            "rate": "13.43"
+        }, 
+        {
+            "city": "City of Bell", 
+            "cases": "20", 
+            "rate": "54.65"
+        }, 
+        {
+            "city": "City of Bell Gardens", 
+            "cases": "12", 
+            "rate": "28.03"
+        }, 
+        {
+            "city": "City of Bellflower", 
+            "cases": "32", 
+            "rate": "42.07"
+        }, 
+        {
+            "city": "City of Beverly Hills", 
+            "cases": "65", 
+            "rate": "187.58"
+        }, 
+        {
+            "city": "City of Bradbury", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "City of Burbank", 
+            "cases": "70", 
+            "rate": "66.86"
+        }, 
+        {
+            "city": "City of Calabasas", 
+            "cases": "20", 
+            "rate": "82.7"
+        }, 
+        {
+            "city": "City of Carson", 
+            "cases": "83", 
+            "rate": "88.54"
+        }, 
+        {
+            "city": "City of Cerritos", 
+            "cases": "20", 
+            "rate": "40.61"
+        }, 
+        {
+            "city": "City of Claremont", 
+            "cases": "5", 
+            "rate": "13.84"
+        }, 
+        {
+            "city": "City of Commerce", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "City of Compton", 
+            "cases": "34", 
+            "rate": "33.68"
+        }, 
+        {
+            "city": "City of Covina", 
+            "cases": "18", 
+            "rate": "36.64"
+        }, 
+        {
+            "city": "City of Cudahy", 
+            "cases": "15", 
+            "rate": "61.16"
+        }, 
+        {
+            "city": "City of Culver City", 
+            "cases": "26", 
+            "rate": "64.43"
+        }, 
+        {
+            "city": "City of Diamond Bar", 
+            "cases": "12", 
+            "rate": "21.01"
+        }, 
+        {
+            "city": "City of Downey", 
+            "cases": "68", 
+            "rate": "59.75"
+        }, 
+        {
+            "city": "City of Duarte", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of El Monte", 
+            "cases": "18", 
+            "rate": "15.83"
+        }, 
+        {
+            "city": "City of El Segundo", 
+            "cases": "7", 
+            "rate": "42.22"
+        }, 
+        {
+            "city": "City of Gardena", 
+            "cases": "30", 
+            "rate": "49.44"
+        }, 
+        {
+            "city": "City of Glendale", 
+            "cases": "129", 
+            "rate": "63.99"
+        }, 
+        {
+            "city": "City of Glendora", 
+            "cases": "14", 
+            "rate": "26.8"
+        }, 
+        {
+            "city": "City of Hawaiian Gardens", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of Hawthorne", 
+            "cases": "39", 
+            "rate": "44.43"
+        }, 
+        {
+            "city": "City of Hermosa Beach", 
+            "cases": "17", 
+            "rate": "86.25"
+        }, 
+        {
+            "city": "City of Hidden Hills", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "City of Huntington Park", 
+            "cases": "26", 
+            "rate": "43.69"
+        }, 
+        {
+            "city": "City of Industry", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of Inglewood", 
+            "cases": "69", 
+            "rate": "59.3"
+        }, 
+        {
+            "city": "City of Irwindale", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "City of La Canada Flintridge", 
+            "cases": "14", 
+            "rate": "68.32"
+        }, 
+        {
+            "city": "City of La Habra Heights", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "City of La Mirada", 
+            "cases": "15", 
+            "rate": "30.32"
+        }, 
+        {
+            "city": "City of La Puente", 
+            "cases": "12", 
+            "rate": "29.72"
+        }, 
+        {
+            "city": "City of La Verne", 
+            "cases": "7", 
+            "rate": "21.14"
+        }, 
+        {
+            "city": "City of Lakewood", 
+            "cases": "29", 
+            "rate": "37.09"
+        }, 
+        {
+            "city": "City of Lancaster", 
+            "cases": "51", 
+            "rate": "32.57"
+        }, 
+        {
+            "city": "City of Lawndale", 
+            "cases": "13", 
+            "rate": "38.95"
+        }, 
+        {
+            "city": "City of Lomita", 
+            "cases": "9", 
+            "rate": "44.53"
+        }, 
+        {
+            "city": "City of Lynwood", 
+            "cases": "37", 
+            "rate": "51.25"
+        }, 
+        {
+            "city": "City of Malibu", 
+            "cases": "8", 
+            "rate": "63.15"
+        }, 
+        {
+            "city": "City of Manhattan Beach", 
+            "cases": "46", 
+            "rate": "130.79"
+        }, 
+        {
+            "city": "City of Maywood", 
+            "cases": "15", 
+            "rate": "53.33"
+        }, 
+        {
+            "city": "City of Monrovia", 
+            "cases": "11", 
+            "rate": "29.36"
+        }, 
+        {
+            "city": "City of Montebello", 
+            "cases": "17", 
+            "rate": "26.67"
+        }, 
+        {
+            "city": "City of Monterey Park", 
+            "cases": "15", 
+            "rate": "24.54"
+        }, 
+        {
+            "city": "City of Norwalk", 
+            "cases": "49", 
+            "rate": "46.73"
+        }, 
+        {
+            "city": "City of Palmdale", 
+            "cases": "37", 
+            "rate": "23.17"
+        }, 
+        {
+            "city": "City of Palos Verdes Estates", 
+            "cases": "23", 
+            "rate": "168.29"
+        }, 
+        {
+            "city": "City of Paramount", 
+            "cases": "23", 
+            "rate": "40.91"
+        }, 
+        {
+            "city": "City of Pico Rivera", 
+            "cases": "31", 
+            "rate": "48.4"
+        }, 
+        {
+            "city": "City of Pomona", 
+            "cases": "24", 
+            "rate": "15.46"
+        }, 
+        {
+            "city": "City of Rancho Palos Verdes", 
+            "cases": "28", 
+            "rate": "65.26"
+        }, 
+        {
+            "city": "City of Redondo Beach", 
+            "cases": "64", 
+            "rate": "92.33"
+        }, 
+        {
+            "city": "City of Rolling Hills", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of Rolling Hills Estates", 
+            "cases": "8", 
+            "rate": "100.06"
+        }, 
+        {
+            "city": "City of Rosemead", 
+            "cases": "8", 
+            "rate": "14.53"
+        }, 
+        {
+            "city": "City of San Dimas", 
+            "cases": "9", 
+            "rate": "26.46"
+        }, 
+        {
+            "city": "City of San Fernando", 
+            "cases": "9", 
+            "rate": "36.79"
+        }, 
+        {
+            "city": "City of San Gabriel", 
+            "cases": "10", 
+            "rate": "24.81"
+        }, 
+        {
+            "city": "City of San Marino", 
+            "cases": "5", 
+            "rate": "36.99"
+        }, 
+        {
+            "city": "City of Santa Clarita", 
+            "cases": "102", 
+            "rate": "46.5"
+        }, 
+        {
+            "city": "City of Santa Fe Springs", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of Santa Monica", 
+            "cases": "68", 
+            "rate": "72.8"
+        }, 
+        {
+            "city": "City of Sierra Madre", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of Signal Hill", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of South El Monte", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of South Gate", 
+            "cases": "52", 
+            "rate": "52.14"
+        }, 
+        {
+            "city": "City of South Pasadena", 
+            "cases": "10", 
+            "rate": "38.55"
+        }, 
+        {
+            "city": "City of Temple City", 
+            "cases": "9", 
+            "rate": "24.66"
+        }, 
+        {
+            "city": "City of Torrance", 
+            "cases": "86", 
+            "rate": "58.63"
+        }, 
+        {
+            "city": "City of Vernon", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "City of Walnut", 
+            "cases": "8", 
+            "rate": "26.61"
+        }, 
+        {
+            "city": "City of West Covina", 
+            "cases": "12", 
+            "rate": "11.14"
+        }, 
+        {
+            "city": "City of West Hollywood", 
+            "cases": "83", 
+            "rate": "231.86"
+        }, 
+        {
+            "city": "City of Westlake Village", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "City of Whittier", 
+            "cases": "23", 
+            "rate": "26.11"
+        }, 
+        {
+            "city": "Los Angeles", 
+            "cases": "2659", 
+            "rate": "65.91"
+        }, 
+        {
+            "city": "Los Angeles - Adams-Normandie", 
+            "cases": "13", 
+            "rate": "153.18"
+        }, 
+        {
+            "city": "Los Angeles - Alsace", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Angelino Heights", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - Arleta", 
+            "cases": "15", 
+            "rate": "42.72"
+        }, 
+        {
+            "city": "Los Angeles - Atwater Village", 
+            "cases": "6", 
+            "rate": "40.81"
+        }, 
+        {
+            "city": "Los Angeles - Baldwin Hills", 
+            "cases": "20", 
+            "rate": "66.68"
+        }, 
+        {
+            "city": "Los Angeles - Bel Air", 
+            "cases": "18", 
+            "rate": "219.03"
+        }, 
+        {
+            "city": "Los Angeles - Beverly Crest", 
+            "cases": "25", 
+            "rate": "201.69"
+        }, 
+        {
+            "city": "Los Angeles - Beverlywood", 
+            "cases": "17", 
+            "rate": "127.62"
+        }, 
+        {
+            "city": "Los Angeles - Boyle Heights", 
+            "cases": "37", 
+            "rate": "42.41"
+        }, 
+        {
+            "city": "Los Angeles - Brentwood", 
+            "cases": "49", 
+            "rate": "156.71"
+        }, 
+        {
+            "city": "Los Angeles - Brookside", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - Cadillac-Corning", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Canoga Park", 
+            "cases": "32", 
+            "rate": "50.24"
+        }, 
+        {
+            "city": "Los Angeles - Carthay", 
+            "cases": "26", 
+            "rate": "193.77"
+        }, 
+        {
+            "city": "Los Angeles - Central", 
+            "cases": "24", 
+            "rate": "61.37"
+        }, 
+        {
+            "city": "Los Angeles - Century City", 
+            "cases": "23", 
+            "rate": "189.89"
+        }, 
+        {
+            "city": "Los Angeles - Century Palms/Cove", 
+            "cases": "17", 
+            "rate": "50.2"
+        }, 
+        {
+            "city": "Los Angeles - Chatsworth", 
+            "cases": "24", 
+            "rate": "66.59"
+        }, 
+        {
+            "city": "Los Angeles - Cheviot Hills", 
+            "cases": "10", 
+            "rate": "107.94"
+        }, 
+        {
+            "city": "Los Angeles - Chinatown", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Cloverdale/Cochran", 
+            "cases": "10", 
+            "rate": "66.64"
+        }, 
+        {
+            "city": "Los Angeles - Country Club Park", 
+            "cases": "12", 
+            "rate": "77.9"
+        }, 
+        {
+            "city": "Los Angeles - Crenshaw District", 
+            "cases": "9", 
+            "rate": "65.44"
+        }, 
+        {
+            "city": "Los Angeles - Crestview", 
+            "cases": "23", 
+            "rate": "200.94"
+        }, 
+        {
+            "city": "Los Angeles - Del Rey", 
+            "cases": "27", 
+            "rate": "92.28"
+        }, 
+        {
+            "city": "Los Angeles - Downtown", 
+            "cases": "19", 
+            "rate": "78.35"
+        }, 
+        {
+            "city": "Los Angeles - Eagle Rock", 
+            "cases": "21", 
+            "rate": "53.61"
+        }, 
+        {
+            "city": "Los Angeles - East Hollywood", 
+            "cases": "16", 
+            "rate": "53.71"
+        }, 
+        {
+            "city": "Los Angeles - Echo Park", 
+            "cases": "9", 
+            "rate": "62.74"
+        }, 
+        {
+            "city": "Los Angeles - El Sereno", 
+            "cases": "18", 
+            "rate": "43.12"
+        }, 
+        {
+            "city": "Los Angeles - Elysian Park", 
+            "cases": "5", 
+            "rate": "86.48"
+        }, 
+        {
+            "city": "Los Angeles - Elysian Valley", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Encino", 
+            "cases": "39", 
+            "rate": "91.69"
+        }, 
+        {
+            "city": "Los Angeles - Exposition", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - Exposition Park", 
+            "cases": "28", 
+            "rate": "61.96"
+        }, 
+        {
+            "city": "Los Angeles - Faircrest Heights", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Figueroa Park Square", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Florence-Firestone", 
+            "cases": "28", 
+            "rate": "57.32"
+        }, 
+        {
+            "city": "Los Angeles - Glassell Park", 
+            "cases": "30", 
+            "rate": "95.59"
+        }, 
+        {
+            "city": "Los Angeles - Gramercy Place", 
+            "cases": "7", 
+            "rate": "66.9"
+        }, 
+        {
+            "city": "Los Angeles - Granada Hills", 
+            "cases": "27", 
+            "rate": "46.57"
+        }, 
+        {
+            "city": "Los Angeles - Green Meadows", 
+            "cases": "10", 
+            "rate": "46.01"
+        }, 
+        {
+            "city": "Los Angeles - Hancock Park", 
+            "cases": "38", 
+            "rate": "231.35"
+        }, 
+        {
+            "city": "Los Angeles - Harbor City", 
+            "cases": "19", 
+            "rate": "65.61"
+        }, 
+        {
+            "city": "Los Angeles - Harbor Gateway", 
+            "cases": "18", 
+            "rate": "41.19"
+        }, 
+        {
+            "city": "Los Angeles - Harbor Pines", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - Harvard Heights", 
+            "cases": "9", 
+            "rate": "48.92"
+        }, 
+        {
+            "city": "Los Angeles - Harvard Park", 
+            "cases": "16", 
+            "rate": "40.36"
+        }, 
+        {
+            "city": "Los Angeles - Highland Park", 
+            "cases": "19", 
+            "rate": "39.45"
+        }, 
+        {
+            "city": "Los Angeles - Historic Filipinotown", 
+            "cases": "8", 
+            "rate": "56.52"
+        }, 
+        {
+            "city": "Los Angeles - Hollywood", 
+            "cases": "96", 
+            "rate": "147.82"
+        }, 
+        {
+            "city": "Los Angeles - Hollywood Hills", 
+            "cases": "39", 
+            "rate": "135.06"
+        }, 
+        {
+            "city": "Los Angeles - Hyde Park", 
+            "cases": "14", 
+            "rate": "47.64"
+        }, 
+        {
+            "city": "Los Angeles - Jefferson Park", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Koreatown", 
+            "cases": "32", 
+            "rate": "60.83"
+        }, 
+        {
+            "city": "Los Angeles - Lafayette Square", 
+            "cases": "5", 
+            "rate": "108.08"
+        }, 
+        {
+            "city": "Los Angeles - Lake Balboa", 
+            "cases": "25", 
+            "rate": "60.01"
+        }, 
+        {
+            "city": "Los Angeles - Lakeview Terrace", 
+            "cases": "10", 
+            "rate": "74.84"
+        }, 
+        {
+            "city": "Los Angeles - Leimert Park", 
+            "cases": "17", 
+            "rate": "112.53"
+        }, 
+        {
+            "city": "Los Angeles - Lincoln Heights", 
+            "cases": "11", 
+            "rate": "33.28"
+        }, 
+        {
+            "city": "Los Angeles - Little Armenia", 
+            "cases": "16", 
+            "rate": "211.36"
+        }, 
+        {
+            "city": "Los Angeles - Little Bangladesh", 
+            "cases": "16", 
+            "rate": "55.04"
+        }, 
+        {
+            "city": "Los Angeles - Little Tokyo", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Longwood", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Los Feliz", 
+            "cases": "19", 
+            "rate": "89.03"
+        }, 
+        {
+            "city": "Los Angeles - Manchester Square", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Mandeville Canyon", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Mar Vista", 
+            "cases": "25", 
+            "rate": "59.68"
+        }, 
+        {
+            "city": "Los Angeles - Marina Peninsula", 
+            "cases": "6", 
+            "rate": "136.58"
+        }, 
+        {
+            "city": "Los Angeles - Melrose", 
+            "cases": "140", 
+            "rate": "180.33"
+        }, 
+        {
+            "city": "Los Angeles - Mid-city", 
+            "cases": "21", 
+            "rate": "139.42"
+        }, 
+        {
+            "city": "Los Angeles - Miracle Mile", 
+            "cases": "17", 
+            "rate": "96.22"
+        }, 
+        {
+            "city": "Los Angeles - Mission Hills", 
+            "cases": "12", 
+            "rate": "50.05"
+        }, 
+        {
+            "city": "Los Angeles - Mt. Washington", 
+            "cases": "8", 
+            "rate": "33.43"
+        }, 
+        {
+            "city": "Los Angeles - North Hills", 
+            "cases": "22", 
+            "rate": "36.11"
+        }, 
+        {
+            "city": "Los Angeles - North Hollywood", 
+            "cases": "91", 
+            "rate": "60.12"
+        }, 
+        {
+            "city": "Los Angeles - Northridge", 
+            "cases": "23", 
+            "rate": "33.95"
+        }, 
+        {
+            "city": "Los Angeles - Pacific Palisades", 
+            "cases": "26", 
+            "rate": "125.58"
+        }, 
+        {
+            "city": "Los Angeles - Pacoima", 
+            "cases": "30", 
+            "rate": "37.53"
+        }, 
+        {
+            "city": "Los Angeles - Palisades Highlands", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Palms", 
+            "cases": "41", 
+            "rate": "90.79"
+        }, 
+        {
+            "city": "Los Angeles - Panorama City", 
+            "cases": "33", 
+            "rate": "43.42"
+        }, 
+        {
+            "city": "Los Angeles - Park La Brea", 
+            "cases": "8", 
+            "rate": "58.89"
+        }, 
+        {
+            "city": "Los Angeles - Pico-Union", 
+            "cases": "21", 
+            "rate": "49.29"
+        }, 
+        {
+            "city": "Los Angeles - Playa Del Rey", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Playa Vista", 
+            "cases": "8", 
+            "rate": "80.13"
+        }, 
+        {
+            "city": "Los Angeles - Porter Ranch", 
+            "cases": "21", 
+            "rate": "63.24"
+        }, 
+        {
+            "city": "Los Angeles - Rancho Park", 
+            "cases": "7", 
+            "rate": "104.48"
+        }, 
+        {
+            "city": "Los Angeles - Regent Square", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Reseda", 
+            "cases": "38", 
+            "rate": "50.16"
+        }, 
+        {
+            "city": "Los Angeles - Reseda Ranch", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Reynier Village", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - San Pedro", 
+            "cases": "26", 
+            "rate": "33.41"
+        }, 
+        {
+            "city": "Los Angeles - Shadow Hills", 
+            "cases": "5", 
+            "rate": "108.89"
+        }, 
+        {
+            "city": "Los Angeles - Sherman Oaks", 
+            "cases": "56", 
+            "rate": "65.91"
+        }, 
+        {
+            "city": "Los Angeles - Silverlake", 
+            "cases": "55", 
+            "rate": "127.35"
+        }, 
+        {
+            "city": "Los Angeles - South Carthay", 
+            "cases": "20", 
+            "rate": "188.75"
+        }, 
+        {
+            "city": "Los Angeles - South Park", 
+            "cases": "22", 
+            "rate": "56.28"
+        }, 
+        {
+            "city": "Los Angeles - St Elmo Village", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Studio City", 
+            "cases": "21", 
+            "rate": "98.12"
+        }, 
+        {
+            "city": "Los Angeles - Sun Valley", 
+            "cases": "18", 
+            "rate": "32.61"
+        }, 
+        {
+            "city": "Los Angeles - Sunland", 
+            "cases": "13", 
+            "rate": "63.38"
+        }, 
+        {
+            "city": "Los Angeles - Sycamore Square", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - Sylmar", 
+            "cases": "61", 
+            "rate": "73.72"
+        }, 
+        {
+            "city": "Los Angeles - Tarzana", 
+            "cases": "37", 
+            "rate": "122.41"
+        }, 
+        {
+            "city": "Los Angeles - Temple-Beaudry", 
+            "cases": "24", 
+            "rate": "61.56"
+        }, 
+        {
+            "city": "Los Angeles - Thai Town", 
+            "cases": "5", 
+            "rate": "51.67"
+        }, 
+        {
+            "city": "Los Angeles - Toluca Lake", 
+            "cases": "6", 
+            "rate": "73"
+        }, 
+        {
+            "city": "Los Angeles - Toluca Terrace", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - Toluca Woods", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - Tujunga", 
+            "cases": "10", 
+            "rate": "35.49"
+        }, 
+        {
+            "city": "Los Angeles - University Hills", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - University Park", 
+            "cases": "16", 
+            "rate": "59.43"
+        }, 
+        {
+            "city": "Los Angeles - Valley Glen", 
+            "cases": "21", 
+            "rate": "70.36"
+        }, 
+        {
+            "city": "Los Angeles - Valley Village", 
+            "cases": "30", 
+            "rate": "128.05"
+        }, 
+        {
+            "city": "Los Angeles - Van Nuys", 
+            "cases": "36", 
+            "rate": "38.77"
+        }, 
+        {
+            "city": "Los Angeles - Venice", 
+            "cases": "25", 
+            "rate": "73.24"
+        }, 
+        {
+            "city": "Los Angeles - Vermont Knolls", 
+            "cases": "12", 
+            "rate": "67.15"
+        }, 
+        {
+            "city": "Los Angeles - Vermont Square", 
+            "cases": "6", 
+            "rate": "78.53"
+        }, 
+        {
+            "city": "Los Angeles - Vermont Vista", 
+            "cases": "14", 
+            "rate": "33.6"
+        }, 
+        {
+            "city": "Los Angeles - Vernon Central", 
+            "cases": "21", 
+            "rate": "38.8"
+        }, 
+        {
+            "city": "Los Angeles - Victoria Park", 
+            "cases": "11", 
+            "rate": "128.38"
+        }, 
+        {
+            "city": "Los Angeles - View Heights", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Los Angeles - Watts", 
+            "cases": "15", 
+            "rate": "34.16"
+        }, 
+        {
+            "city": "Los Angeles - Wellington Square", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Los Angeles - West Adams", 
+            "cases": "21", 
+            "rate": "74.68"
+        }, 
+        {
+            "city": "Los Angeles - West Hills", 
+            "cases": "18", 
+            "rate": "46"
+        }, 
+        {
+            "city": "Los Angeles - West Los Angeles", 
+            "cases": "29", 
+            "rate": "77.35"
+        }, 
+        {
+            "city": "Los Angeles - West Vernon", 
+            "cases": "27", 
+            "rate": "49.72"
+        }, 
+        {
+            "city": "Los Angeles - Westchester", 
+            "cases": "24", 
+            "rate": "47.25"
+        }, 
+        {
+            "city": "Los Angeles - Westlake", 
+            "cases": "31", 
+            "rate": "52.83"
+        }, 
+        {
+            "city": "Los Angeles - Westwood", 
+            "cases": "27", 
+            "rate": "49.61"
+        }, 
+        {
+            "city": "Los Angeles - Wholesale District", 
+            "cases": "12", 
+            "rate": "31.42"
+        }, 
+        {
+            "city": "Los Angeles - Wilmington", 
+            "cases": "19", 
+            "rate": "33.17"
+        }, 
+        {
+            "city": "Los Angeles - Wilshire Center", 
+            "cases": "23", 
+            "rate": "44.69"
+        }, 
+        {
+            "city": "Los Angeles - Winnetka", 
+            "cases": "29", 
+            "rate": "56.82"
+        }, 
+        {
+            "city": "Los Angeles - Woodland Hills", 
+            "cases": "47", 
+            "rate": "72.82"
+        }, 
+        {
+            "city": "Unincorporated - Acton", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Agua Dulce", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Altadena", 
+            "cases": "25", 
+            "rate": "58.87"
+        }, 
+        {
+            "city": "Unincorporated - Anaverde", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Angeles National Forest", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Arcadia", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Athens-Westmont", 
+            "cases": "22", 
+            "rate": "52.83"
+        }, 
+        {
+            "city": "Unincorporated - Athens Village", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Avocado Heights", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Azusa", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Bassett", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Bouquet Canyon", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Bradbury", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Canyon Country", 
+            "cases": "8", 
+            "rate": "113.01"
+        }, 
+        {
+            "city": "Unincorporated - Castaic", 
+            "cases": "5", 
+            "rate": "17.65"
+        }, 
+        {
+            "city": "Unincorporated - Cerritos", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Claremont", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Covina", 
+            "cases": "10", 
+            "rate": "59.92"
+        }, 
+        {
+            "city": "Unincorporated - Covina (Charter Oak)", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Del Aire", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Del Rey", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Del Sur", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Desert View Highlands", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Duarte", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - East Covina", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - East La Mirada", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - East Lancaster", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - East Los Angeles", 
+            "cases": "44", 
+            "rate": "34.65"
+        }, 
+        {
+            "city": "Unincorporated - East Pasadena", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - East Rancho Dominguez", 
+            "cases": "6", 
+            "rate": "37.24"
+        }, 
+        {
+            "city": "Unincorporated - East Whittier", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - El Camino Village", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - El Monte", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Elizabeth Lake", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Florence-Firestone", 
+            "cases": "35", 
+            "rate": "53.21"
+        }, 
+        {
+            "city": "Unincorporated - Glendora", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Hacienda Heights", 
+            "cases": "17", 
+            "rate": "31.12"
+        }, 
+        {
+            "city": "Unincorporated - Hawthorne", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Hi Vista", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Kagel/Lopez Canyons", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - La Crescenta-Montrose", 
+            "cases": "5", 
+            "rate": "25.3"
+        }, 
+        {
+            "city": "Unincorporated - La Habra Heights", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - La Rambla", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - La Verne", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Ladera Heights", 
+            "cases": "10", 
+            "rate": "168.35"
+        }, 
+        {
+            "city": "Unincorporated - Lake Hughes", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Lake Los Angeles", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Lake Manor", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Lakewood", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Lennox", 
+            "cases": "15", 
+            "rate": "63.6"
+        }, 
+        {
+            "city": "Unincorporated - Leona Valley", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Littlerock", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Littlerock/Juniper Hills", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Littlerock/Pearblossom", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Llano", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Long Beach", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Marina del Rey", 
+            "cases": "5", 
+            "rate": "54.51"
+        }, 
+        {
+            "city": "Unincorporated - Monrovia", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Newhall", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - North Lancaster", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - North Whittier", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Northeast San Gabriel", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Padua Hills", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Palmdale", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Palos Verdes Peninsula", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Pearblossom/Llano", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Pellissier Village", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Placerita Canyon", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Pomona", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Quartz Hill", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Rancho Dominguez", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Roosevelt", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Rosewood", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Rosewood/East Gardena", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Rosewood/West Rancho Dominguez", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Rowland Heights", 
+            "cases": "8", 
+            "rate": "15.73"
+        }, 
+        {
+            "city": "Unincorporated - San Jose Hills", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - San Pasqual", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Sand Canyon", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Santa Catalina Island", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Santa Monica Mountains", 
+            "cases": "5", 
+            "rate": "26.48"
+        }, 
+        {
+            "city": "Unincorporated - Saugus", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Saugus/Canyon Country", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - South Antelope Valley", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - South El Monte", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - South San Gabriel", 
+            "cases": "5", 
+            "rate": "58.2"
+        }, 
+        {
+            "city": "Unincorporated - South Whittier", 
+            "cases": "15", 
+            "rate": "25.75"
+        }, 
+        {
+            "city": "Unincorporated - Southeast Antelope Valley", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Stevenson Ranch", 
+            "cases": "7", 
+            "rate": "34.15"
+        }, 
+        {
+            "city": "Unincorporated - Sun Village", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Sunrise Village", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Twin Lakes/Oat Mountain", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Val Verde", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Valencia", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Valinda", 
+            "cases": "6", 
+            "rate": "25.7"
+        }, 
+        {
+            "city": "Unincorporated - View Park/Windsor Hills", 
+            "cases": "12", 
+            "rate": "118.81"
+        }, 
+        {
+            "city": "Unincorporated - Walnut Park", 
+            "cases": "7", 
+            "rate": "43.78"
+        }, 
+        {
+            "city": "Unincorporated - West Antelope Valley", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - West Carson", 
+            "cases": "20", 
+            "rate": "91.23"
+        }, 
+        {
+            "city": "Unincorporated - West LA", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - West Puente Valley", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - West Rancho Dominguez", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - West Whittier/Los Nietos", 
+            "cases": "8", 
+            "rate": "30.11"
+        }, 
+        {
+            "city": "Unincorporated - Westfield/Academy Hills", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Westhills", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - White Fence Farms", 
+            "cases": "0", 
+            "rate": "0"
+        }, 
+        {
+            "city": "Unincorporated - Whittier", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "Unincorporated - Willowbrook", 
+            "cases": "12", 
+            "rate": "34.7"
+        }, 
+        {
+            "city": "Unincorporated - Wiseburn", 
+            "cases": "--", 
+            "rate": "--"
+        }, 
+        {
+            "city": "- Under Investigation", 
+            "cases": "614", 
+            "rate": "NA"
+        }
+    ]
+}
