@@ -15,7 +15,6 @@ crawl_runner = CrawlerRunner()
 lacovidlist= []
 scrape_in_progress=False
 scrape_complete=False
-
 logging.basicConfig(level=logging.DEBUG)
 
 empty_data={"data": [{"city": "not ready", "cases":0,"rate":0}]}
