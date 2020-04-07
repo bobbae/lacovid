@@ -30,6 +30,6 @@ class Lacovidbot(scrapy.Spider):
     def store(self):
         self.alogger.info('writing the json file')
         with open('/tmp/lacovidinfo.json', 'w') as jsonfile:
-            print json.dump(self.alist, jsonfile, indent=4)
+            json.dumps(self.alist, jsonfile, indent=4)
 
 
