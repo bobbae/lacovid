@@ -1,4 +1,4 @@
-crochet=1.12.0
+crochet==1.12.0
 Flask==1.1.1
 Scrapy==1.8.0
 Twisted==20.3.0
