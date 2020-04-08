@@ -23,6 +23,8 @@ class Lacovidbot(scrapy.Spider):
             if i<28:
                 i=i+1
                 continue
+            if i>300:
+                break
             arec = { 'city': city, 'cases': cases[i] , 'rate':rates[i]}
             i=i+1
             self.alist.append(arec)

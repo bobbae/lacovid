@@ -130,9 +130,19 @@
                 } );
             } );
     }
-    $( window ).on( "load", setupData );
+    async function asyncSetup() {
+      $.ajax({type: "POST", url: "/start_crawling"});
+      let promise = new Promise((res,rej) => {
+        setTimeout(() => res("done"), 1000)
+      });
+      let result = await promise;
+      setupData();
+      draw_bar_chart();
+    };
 
-    draw_bar_chart();
+    $( window ).on( "load", asyncSetup );
+
+    //draw_bar_chart();
     
     </script>
 </body>
