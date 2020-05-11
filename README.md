@@ -4,6 +4,7 @@
 $ export FLASK_ENV=development
 $ flask run
 ```
+https://colab.research.google.com/github/bobbae/lacovid/blob/master/lacovid19.ipynb
 
 http://aaa12w3.herokuapp.com/
 
