@@ -24,7 +24,6 @@ handler.setLevel(logging.DEBUG)
 app.logger.addHandler(handler)
 app.logger.info('starting')
 
-
 @app.route('/')
 def myindex():
     global lacovidlist

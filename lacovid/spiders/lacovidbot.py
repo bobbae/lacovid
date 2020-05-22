@@ -25,5 +25,5 @@ class LacovidbotSpider(scrapy.Spider):
             i=i+1
             alist.append(arec)
         with open('lacovidinfo.json', 'w') as jsonfile:
-            print json.dump(lacitiesdata, jsonfile, indent=4)
+            json.dump(lacitiesdata, jsonfile, indent=4)
 
