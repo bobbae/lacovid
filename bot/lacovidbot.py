@@ -20,14 +20,12 @@ class Lacovidbot(scrapy.Spider):
         rates = list(map(lambda x: x.replace('<td>','').replace('</td>',''), rates))
         i = 0
         for city in cities:
-            if i<28:
-                i=i+1
-                continue
+            arec = { 'city': city, 'cases': cases[i] , 'rate':rates[i]}
             if i>300:
                 break
-            arec = { 'city': city, 'cases': cases[i] , 'rate':rates[i]}
             i=i+1
             self.alist.append(arec)
+        print(self.alist)
 
     def store(self):
         self.alogger.info('writing the json file')
