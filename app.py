@@ -27,7 +27,7 @@ app.logger.info('starting')
 @app.route('/')
 def myindex():
     app.logger.info("myindex")
-    return render_template("index.html",data=json.dumps(empty_data), flask_token="la covid info")
+    return render_template("index.html",data=json.dumps(empty_data), flask_token="LA covid-19 info")
     
 @app.route('/table')
 def rendertable():
