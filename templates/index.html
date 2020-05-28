@@ -10,6 +10,7 @@
   <script src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+  <script src="https://d3js.org/d3.v3.min.js"></script> 
   
   <title>{{flask_token}}</title>
 
@@ -22,7 +23,7 @@
         <button type="button" class="btn btn-primary" id="getdata-btn" name="get data" value="get data">Get data</button>
     </div>
     <div class="row d-flex justify-content-center">
-        
+      <div class='col-sm-4' id="duration">
         <table id="summary" class="table table-striped table-bordered" style="width:100%">
             <thead>
                 <tr>
@@ -37,6 +38,15 @@
                 </tr>
             </tfoot>
         </table>
+      </div>
+      <div class='col-sm-4' id="duration">
+        <div class="row d-flex pt-5 pb-5 justify-content-center ">
+            <svg style="height:560px;width:100%"></svg>
+        </div>
+        <div class='row justify-content-center'>
+          <p> blue: population, green: infected</p>
+        </div>
+      </div>
     </div>
     <div class="row d-flex pt-5 pb-5 justify-content-center ">
         <div id='bar-chart'></div>
@@ -170,7 +180,97 @@
                     { "data": "details" }
                 ]
                 } );
+
     }
+
+    function double_donut(result) {
+      data = result.data;
+       var dataset = {
+          apples: [{
+            value: 4644328,
+            color: '#1352A4',
+            label: 'latino'
+          }, {
+            value: 5126367,
+            color: '#5D9CEC',
+            label: 'white'
+          }, {
+            value: 844048,
+            color: '#1352A4',
+            label: 'black'
+          }, {
+            value: 1347782,
+            color: '#A4C7F4',
+            label: 'asian'
+          }
+          ],
+          oranges: [{
+            value: parseInt(data[20].details),
+            color: '#58A53B',
+            label: 'latino'
+          }, {
+            value: parseInt(data[22].details),
+            color: '#83C969',
+            label: 'white'
+          }, {
+            value: parseInt(data[19].details),
+            color: '#A8D996',
+            label: 'black'
+          }, {
+            value: parseInt(data[18].details),
+            color: '#CDE9C3',
+            label: 'asian'
+          }
+          ]
+        };
+
+      console.log(dataset);
+        var width = d3.select('#duration').node().offsetWidth,
+          height = 600,
+          cwidth = 33;
+
+        var pie = d3.layout.pie()
+          .sort(null)
+          .value(function(d) {
+            return d.value;
+          })
+
+        var innerArc = d3.svg.arc()
+          .innerRadius(158)
+          .outerRadius(cwidth * 1.7);
+
+        var outerArc = d3.svg.arc()
+          .innerRadius(220 + cwidth)
+          .outerRadius(cwidth * 4.5);
+
+        var svg = d3.select("#duration svg")
+          .append("g")
+          .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+        var gs = svg.selectAll("g").data(d3.values(dataset)).enter().append("g");
+        var en = gs.selectAll("path")
+          .data(function(d, i) {
+            return pie(d);
+          })
+          .enter();
+
+        en.append("path")
+          .attr("fill", function(d) {
+            return d.data.color;
+          })
+          .attr("d", function(d, i, j) {
+            return j === 0 ? innerArc(d) : outerArc(d);
+          });
+
+        en.append("text")
+          .text(function(d) {
+            return d.data.label;
+          })
+          .attr("transform", function(d, i, j) {
+            return j === 0 ? "translate(" + innerArc.centroid(d) + ")" : "translate(" + outerArc.centroid(d) + ")";
+          });
+    }
+
     async function asyncSetup() {
       $.ajax({type: "POST", url: "/start_crawling"});
       let promise = new Promise((res,rej) => {
@@ -178,6 +278,9 @@
       });
       let result = await promise;
       setupData();
+      $.ajax({url: "/get_summary", success: function(result) {
+        double_donut(result);
+      }});
       draw_bar_chart();
     };
 
