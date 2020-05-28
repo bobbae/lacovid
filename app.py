@@ -26,13 +26,13 @@ app.logger.info('starting')
 
 @app.route('/')
 def myindex():
-    global lacovidlist
     app.logger.info("myindex")
     return render_template("index.html",data=json.dumps(empty_data), flask_token="la covid info")
     
 @app.route('/table')
 def rendertable():
-    data={ "data": lacovidlist}
+    global lacovidlist
+    data={ "data": filterres(lacovidlist)}
     return render_template("index.html", data=json.dumps(data),flask_token="la covid info")
 
 @app.route('/crawl')
@@ -57,19 +57,25 @@ def results():
     global scrape_complete
     global lacovidlist
     if scrape_complete:
-        return json.dumps({ "data": lacovidlist})
+        return json.dumps({ "data": filterres(lacovidlist)})
     if scrape_in_progress:
         app.logger.info("work in progress")
         return 'Work in progress'
     return 'Run crawler first'
 
+def filterres(olist):
+    nlist =[]
+    for item in olist:
+        if item['city'].startswith('Los Angeles -'):
+            nlist.append(item)
+    return nlist
+    
 @app.route('/get_results')
 def get_results():
     global scrape_complete
-    global lacovidlist
     global empty_data
     if scrape_complete:
-        data={ "data": lacovidlist}
+        data={ "data": filterres(lacovidlist)}
         return jsonify(data)
     return empty_data
 
