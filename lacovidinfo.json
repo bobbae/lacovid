@@ -1,13 +1,153 @@
 {
     "lacitiescovid": [
         {
+            "city": "Cases**",
+            "cases": "1094",
+            "rate": ""
+        },
+        {
+            "city": "Deaths",
+            "cases": "48",
+            "rate": ""
+        },
+        {
+            "city": "",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "Locations",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "Laboratory Confirmed Cases (LCC)",
+            "cases": "49774",
+            "rate": ""
+        },
+        {
+            "city": "- Los Angeles County (excl.\u00a0LB\u00a0and\u00a0Pas)",
+            "cases": "47208",
+            "rate": ""
+        },
+        {
+            "city": "- Long Beach",
+            "cases": "1666",
+            "rate": ""
+        },
+        {
+            "city": "- Pasadena",
+            "cases": "900",
+            "rate": ""
+        },
+        {
+            "city": "",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "Deaths",
+            "cases": "2241",
+            "rate": ""
+        },
+        {
+            "city": "- Los Angeles County (excl.\u00a0LB\u00a0and\u00a0Pas)",
+            "cases": "2078",
+            "rate": ""
+        },
+        {
+            "city": "- Long Beach",
+            "cases": "81",
+            "rate": ""
+        },
+        {
+            "city": "- Pasadena",
+            "cases": "82",
+            "rate": ""
+        },
+        {
+            "city": "Age Group (Los Angeles County Cases Only-excl\u00a0LB\u00a0and\u00a0Pas)",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "0 to 17",
+            "cases": "2225",
+            "rate": ""
+        },
+        {
+            "city": "18 to 40",
+            "cases": "17139",
+            "rate": ""
+        },
+        {
+            "city": "41 to 65",
+            "cases": "18772",
+            "rate": ""
+        },
+        {
+            "city": "Over 65",
+            "cases": "8865",
+            "rate": ""
+        },
+        {
+            "city": "Under Investigation",
+            "cases": "207",
+            "rate": ""
+        },
+        {
+            "city": "Gender (Los Angeles County Cases Only-excl\u00a0LB\u00a0and\u00a0Pas)",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "Female",
+            "cases": "23347",
+            "rate": ""
+        },
+        {
+            "city": "Male",
+            "cases": "23539",
+            "rate": ""
+        },
+        {
+            "city": "Other",
+            "cases": "10",
+            "rate": ""
+        },
+        {
+            "city": "Under Investigation",
+            "cases": "312",
+            "rate": ""
+        },
+        {
+            "city": "",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "Race/Ethnicity (Los Angeles County Cases Only-excl LB and Pas)",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "American Indian/Alaska Native",
+            "cases": "42",
+            "rate": ""
+        },
+        {
+            "city": "Asian",
+            "cases": "2869",
+            "rate": ""
+        },
+        {
             "city": "Black",
-            "cases": "1874",
+            "cases": "1892",
             "rate": ""
         },
         {
             "city": "Hispanic/Latino",
-            "cases": "16285",
+            "cases": "16741",
             "rate": ""
         },
         {
@@ -17,17 +157,17 @@
         },
         {
             "city": "White",
-            "cases": "5581",
+            "cases": "5641",
             "rate": ""
         },
         {
             "city": "Other",
-            "cases": "3714",
+            "cases": "4079",
             "rate": ""
         },
         {
             "city": "Under Investigation",
-            "cases": "15596",
+            "cases": "15664",
             "rate": ""
         },
         {
@@ -42,7 +182,7 @@
         },
         {
             "city": "Hospitalized (Ever)",
-            "cases": "6283",
+            "cases": "6350",
             "rate": ""
         },
         {
@@ -67,37 +207,37 @@
         },
         {
             "city": "Asian",
-            "cases": "354",
+            "cases": "360",
             "rate": ""
         },
         {
             "city": "Black",
-            "cases": "244",
+            "cases": "246",
             "rate": ""
         },
         {
             "city": "Hispanic/Latino",
-            "cases": "808",
+            "cases": "825",
             "rate": ""
         },
         {
             "city": "Native Hawaiian/Pacific Islander",
-            "cases": "17",
+            "cases": "18",
             "rate": ""
         },
         {
             "city": "White",
-            "cases": "577",
+            "cases": "591",
             "rate": ""
         },
         {
             "city": "Other",
-            "cases": "22",
+            "cases": "20",
             "rate": ""
         },
         {
             "city": "Under Investigation",
-            "cases": "14",
+            "cases": "16",
             "rate": ""
         },
         {
@@ -117,8 +257,8 @@
         },
         {
             "city": "City of Alhambra",
-            "cases": "186",
-            "rate": "214.47"
+            "cases": "191",
+            "rate": "220.24"
         },
         {
             "city": "City of Arcadia",
@@ -127,8 +267,8 @@
         },
         {
             "city": "City of Artesia",
-            "cases": "30",
-            "rate": "178.62"
+            "cases": "31",
+            "rate": "184.58"
         },
         {
             "city": "City of Avalon",
@@ -137,33 +277,33 @@
         },
         {
             "city": "City of Azusa",
-            "cases": "159",
-            "rate": "317.75"
+            "cases": "162",
+            "rate": "323.74"
         },
         {
             "city": "City of Baldwin Park",
-            "cases": "294",
-            "rate": "382.97"
+            "cases": "303",
+            "rate": "394.69"
         },
         {
             "city": "City of Bell",
-            "cases": "294",
-            "rate": "809.2"
+            "cases": "300",
+            "rate": "825.72"
         },
         {
             "city": "City of Bell Gardens",
-            "cases": "260",
-            "rate": "603.65"
+            "cases": "266",
+            "rate": "617.58"
         },
         {
             "city": "City of Bellflower",
-            "cases": "361",
-            "rate": "464.4"
+            "cases": "368",
+            "rate": "473.4"
         },
         {
             "city": "City of Beverly Hills",
-            "cases": "135",
-            "rate": "391.08"
+            "cases": "137",
+            "rate": "396.87"
         },
         {
             "city": "City of Bradbury",
@@ -172,8 +312,8 @@
         },
         {
             "city": "City of Burbank",
-            "cases": "393",
-            "rate": "366.67"
+            "cases": "394",
+            "rate": "367.61"
         },
         {
             "city": "City of Calabasas",
@@ -182,13 +322,13 @@
         },
         {
             "city": "City of Carson",
-            "cases": "395",
-            "rate": "420.9"
+            "cases": "400",
+            "rate": "426.23"
         },
         {
             "city": "City of Cerritos",
-            "cases": "116",
-            "rate": "231.69"
+            "cases": "118",
+            "rate": "235.68"
         },
         {
             "city": "City of Claremont",
@@ -202,73 +342,73 @@
         },
         {
             "city": "City of Compton",
-            "cases": "512",
-            "rate": "512.49"
+            "cases": "528",
+            "rate": "528.51"
         },
         {
             "city": "City of Covina",
-            "cases": "154",
-            "rate": "314.08"
+            "cases": "156",
+            "rate": "318.16"
         },
         {
             "city": "City of Cudahy",
-            "cases": "201",
-            "rate": "825.56"
+            "cases": "202",
+            "rate": "829.67"
         },
         {
             "city": "City of Culver City",
-            "cases": "138",
-            "rate": "346.17"
+            "cases": "144",
+            "rate": "361.22"
         },
         {
             "city": "City of Diamond Bar",
-            "cases": "58",
-            "rate": "100.84"
+            "cases": "60",
+            "rate": "104.32"
         },
         {
             "city": "City of Downey",
-            "cases": "590",
-            "rate": "516.35"
+            "cases": "605",
+            "rate": "529.48"
         },
         {
             "city": "City of Duarte",
-            "cases": "113",
-            "rate": "513.26"
+            "cases": "116",
+            "rate": "526.89"
         },
         {
             "city": "City of El Monte",
-            "cases": "465",
-            "rate": "396.52"
+            "cases": "492",
+            "rate": "419.55"
         },
         {
             "city": "City of El Segundo",
-            "cases": "32",
-            "rate": "190.64"
+            "cases": "34",
+            "rate": "202.55"
         },
         {
             "city": "City of Gardena",
-            "cases": "253",
-            "rate": "412.66"
+            "cases": "257",
+            "rate": "419.18"
         },
         {
             "city": "City of Glendale",
-            "cases": "952",
-            "rate": "461.03"
+            "cases": "960",
+            "rate": "464.91"
         },
         {
             "city": "City of Glendora",
-            "cases": "138",
-            "rate": "261.54"
+            "cases": "139",
+            "rate": "263.44"
         },
         {
             "city": "City of Hawaiian Gardens",
-            "cases": "48",
-            "rate": "327.06"
+            "cases": "50",
+            "rate": "340.69"
         },
         {
             "city": "City of Hawthorne",
-            "cases": "376",
-            "rate": "423.49"
+            "cases": "383",
+            "rate": "431.37"
         },
         {
             "city": "City of Hermosa Beach",
@@ -282,8 +422,8 @@
         },
         {
             "city": "City of Huntington Park",
-            "cases": "445",
-            "rate": "748.1"
+            "cases": "448",
+            "rate": "753.14"
         },
         {
             "city": "City of Industry",
@@ -292,8 +432,8 @@
         },
         {
             "city": "City of Inglewood",
-            "cases": "560",
-            "rate": "493.04"
+            "cases": "568",
+            "rate": "500.08"
         },
         {
             "city": "City of Irwindale",
@@ -312,13 +452,13 @@
         },
         {
             "city": "City of La Mirada",
-            "cases": "160",
-            "rate": "322.59"
+            "cases": "161",
+            "rate": "324.6"
         },
         {
             "city": "City of La Puente",
-            "cases": "108",
-            "rate": "265.38"
+            "cases": "112",
+            "rate": "275.2"
         },
         {
             "city": "City of La Verne",
@@ -327,18 +467,18 @@
         },
         {
             "city": "City of Lakewood",
-            "cases": "169",
-            "rate": "210.3"
+            "cases": "173",
+            "rate": "215.28"
         },
         {
             "city": "City of Lancaster*",
-            "cases": "553",
-            "rate": "342.27"
+            "cases": "558",
+            "rate": "345.36"
         },
         {
             "city": "City of Lawndale",
-            "cases": "112",
-            "rate": "333.19"
+            "cases": "116",
+            "rate": "345.09"
         },
         {
             "city": "City of Lomita",
@@ -347,8 +487,8 @@
         },
         {
             "city": "City of Lynwood*",
-            "cases": "538",
-            "rate": "746.73"
+            "cases": "552",
+            "rate": "766.17"
         },
         {
             "city": "City of Malibu",
@@ -362,8 +502,8 @@
         },
         {
             "city": "City of Maywood",
-            "cases": "250",
-            "rate": "891.3"
+            "cases": "252",
+            "rate": "898.43"
         },
         {
             "city": "City of Monrovia",
@@ -372,23 +512,23 @@
         },
         {
             "city": "City of Montebello",
-            "cases": "357",
-            "rate": "554.56"
+            "cases": "362",
+            "rate": "562.33"
         },
         {
             "city": "City of Monterey Park",
-            "cases": "145",
-            "rate": "232.89"
+            "cases": "147",
+            "rate": "236.1"
         },
         {
             "city": "City of Norwalk",
-            "cases": "384",
-            "rate": "356.8"
+            "cases": "395",
+            "rate": "367.03"
         },
         {
             "city": "City of Palmdale",
-            "cases": "678",
-            "rate": "426.5"
+            "cases": "689",
+            "rate": "433.42"
         },
         {
             "city": "City of Palos Verdes Estates",
@@ -397,23 +537,23 @@
         },
         {
             "city": "City of Paramount",
-            "cases": "291",
-            "rate": "519.43"
+            "cases": "304",
+            "rate": "542.63"
         },
         {
             "city": "City of Pico Rivera",
-            "cases": "456",
-            "rate": "709.35"
+            "cases": "473",
+            "rate": "735.8"
         },
         {
             "city": "City of Pomona",
-            "cases": "413",
-            "rate": "264.86"
+            "cases": "429",
+            "rate": "275.12"
         },
         {
             "city": "City of Rancho Palos Verdes",
-            "cases": "91",
-            "rate": "212.88"
+            "cases": "92",
+            "rate": "215.22"
         },
         {
             "city": "City of Redondo Beach",
@@ -432,18 +572,18 @@
         },
         {
             "city": "City of Rosemead",
-            "cases": "89",
-            "rate": "160.79"
+            "cases": "91",
+            "rate": "164.41"
         },
         {
             "city": "City of San Dimas",
-            "cases": "49",
-            "rate": "141.96"
+            "cases": "52",
+            "rate": "150.65"
         },
         {
             "city": "City of San Fernando",
-            "cases": "187",
-            "rate": "759.79"
+            "cases": "188",
+            "rate": "763.86"
         },
         {
             "city": "City of San Gabriel",
@@ -457,18 +597,18 @@
         },
         {
             "city": "City of Santa Clarita",
-            "cases": "701",
-            "rate": "318.02"
+            "cases": "716",
+            "rate": "324.83"
         },
         {
             "city": "City of Santa Fe Springs",
-            "cases": "54",
-            "rate": "294.05"
+            "cases": "56",
+            "rate": "304.94"
         },
         {
             "city": "City of Santa Monica",
-            "cases": "259",
-            "rate": "280.16"
+            "cases": "261",
+            "rate": "282.33"
         },
         {
             "city": "City of Sierra Madre",
@@ -482,28 +622,28 @@
         },
         {
             "city": "City of South El Monte",
-            "cases": "77",
-            "rate": "368.69"
+            "cases": "79",
+            "rate": "378.26"
         },
         {
             "city": "City of South Gate",
-            "cases": "526",
-            "rate": "535.89"
+            "cases": "539",
+            "rate": "549.13"
         },
         {
             "city": "City of South Pasadena",
-            "cases": "122",
-            "rate": "468.28"
+            "cases": "123",
+            "rate": "472.11"
         },
         {
             "city": "City of Temple City",
-            "cases": "148",
-            "rate": "405.98"
+            "cases": "155",
+            "rate": "425.18"
         },
         {
             "city": "City of Torrance",
-            "cases": "358",
-            "rate": "239.84"
+            "cases": "363",
+            "rate": "243.19"
         },
         {
             "city": "City of Vernon",
@@ -512,18 +652,18 @@
         },
         {
             "city": "City of Walnut",
-            "cases": "44",
-            "rate": "144.11"
+            "cases": "45",
+            "rate": "147.39"
         },
         {
             "city": "City of West Covina",
-            "cases": "312",
-            "rate": "288.26"
+            "cases": "320",
+            "rate": "295.65"
         },
         {
             "city": "City of West Hollywood",
-            "cases": "177",
-            "rate": "479.01"
+            "cases": "179",
+            "rate": "484.43"
         },
         {
             "city": "City of Westlake Village",
@@ -532,18 +672,18 @@
         },
         {
             "city": "City of Whittier",
-            "cases": "295",
-            "rate": "337.41"
+            "cases": "300",
+            "rate": "343.12"
         },
         {
             "city": "Los Angeles",
-            "cases": "23086",
-            "rate": "570.79"
+            "cases": "23644",
+            "rate": "584.58"
         },
         {
             "city": "Los Angeles - Adams-Normandie",
-            "cases": "50",
-            "rate": "609.61"
+            "cases": "51",
+            "rate": "621.8"
         },
         {
             "city": "Los Angeles - Alsace",
@@ -562,8 +702,8 @@
         },
         {
             "city": "Los Angeles - Arleta",
-            "cases": "263",
-            "rate": "765.2"
+            "cases": "271",
+            "rate": "788.48"
         },
         {
             "city": "Los Angeles - Atwater Village",
@@ -572,8 +712,8 @@
         },
         {
             "city": "Los Angeles - Baldwin Hills",
-            "cases": "159",
-            "rate": "510.84"
+            "cases": "162",
+            "rate": "520.48"
         },
         {
             "city": "Los Angeles - Bel Air",
@@ -592,13 +732,13 @@
         },
         {
             "city": "Los Angeles - Boyle Heights*",
-            "cases": "638",
-            "rate": "734.31"
+            "cases": "653",
+            "rate": "751.58"
         },
         {
             "city": "Los Angeles - Brentwood",
-            "cases": "75",
-            "rate": "242.29"
+            "cases": "78",
+            "rate": "251.98"
         },
         {
             "city": "Los Angeles - Brookside",
@@ -612,38 +752,38 @@
         },
         {
             "city": "Los Angeles - Canoga Park",
-            "cases": "483",
-            "rate": "739.79"
+            "cases": "486",
+            "rate": "744.38"
         },
         {
             "city": "Los Angeles - Carthay",
-            "cases": "76",
-            "rate": "529.14"
+            "cases": "77",
+            "rate": "536.1"
         },
         {
             "city": "Los Angeles - Central",
-            "cases": "372",
-            "rate": "954.04"
+            "cases": "389",
+            "rate": "997.64"
         },
         {
             "city": "Los Angeles - Century City",
-            "cases": "32",
-            "rate": "250.16"
+            "cases": "33",
+            "rate": "257.97"
         },
         {
             "city": "Los Angeles - Century Palms/Cove",
-            "cases": "231",
-            "rate": "684.12"
+            "cases": "247",
+            "rate": "731.51"
         },
         {
             "city": "Los Angeles - Chatsworth",
-            "cases": "181",
-            "rate": "488.38"
+            "cases": "184",
+            "rate": "496.48"
         },
         {
             "city": "Los Angeles - Cheviot Hills",
-            "cases": "20",
-            "rate": "218.08"
+            "cases": "21",
+            "rate": "228.98"
         },
         {
             "city": "Los Angeles - Chinatown",
@@ -652,53 +792,53 @@
         },
         {
             "city": "Los Angeles - Cloverdale/Cochran",
-            "cases": "60",
-            "rate": "412.29"
+            "cases": "61",
+            "rate": "419.16"
         },
         {
             "city": "Los Angeles - Country Club Park",
-            "cases": "93",
-            "rate": "613.74"
+            "cases": "94",
+            "rate": "620.34"
         },
         {
             "city": "Los Angeles - Crenshaw District",
-            "cases": "67",
-            "rate": "484.49"
+            "cases": "68",
+            "rate": "491.72"
         },
         {
             "city": "Los Angeles - Crestview",
-            "cases": "86",
-            "rate": "756.51"
+            "cases": "87",
+            "rate": "765.31"
         },
         {
             "city": "Los Angeles - Del Rey",
-            "cases": "72",
-            "rate": "240.51"
+            "cases": "74",
+            "rate": "247.19"
         },
         {
             "city": "Los Angeles - Downtown*",
-            "cases": "135",
-            "rate": "490.78"
+            "cases": "137",
+            "rate": "498.06"
         },
         {
             "city": "Los Angeles - Eagle Rock",
-            "cases": "170",
-            "rate": "429.41"
+            "cases": "172",
+            "rate": "434.46"
         },
         {
             "city": "Los Angeles - East Hollywood",
-            "cases": "218",
-            "rate": "744.36"
+            "cases": "221",
+            "rate": "754.6"
         },
         {
             "city": "Los Angeles - Echo Park",
-            "cases": "43",
-            "rate": "301.63"
+            "cases": "44",
+            "rate": "308.64"
         },
         {
             "city": "Los Angeles - El Sereno",
-            "cases": "156",
-            "rate": "373.13"
+            "cases": "160",
+            "rate": "382.7"
         },
         {
             "city": "Los Angeles - Elysian Park",
@@ -707,13 +847,13 @@
         },
         {
             "city": "Los Angeles - Elysian Valley",
-            "cases": "54",
-            "rate": "530.92"
+            "cases": "55",
+            "rate": "540.75"
         },
         {
             "city": "Los Angeles - Encino",
-            "cases": "120",
-            "rate": "265.65"
+            "cases": "124",
+            "rate": "274.51"
         },
         {
             "city": "Los Angeles - Exposition",
@@ -722,8 +862,8 @@
         },
         {
             "city": "Los Angeles - Exposition Park",
-            "cases": "239",
-            "rate": "532.09"
+            "cases": "240",
+            "rate": "534.32"
         },
         {
             "city": "Los Angeles - Faircrest Heights",
@@ -732,48 +872,48 @@
         },
         {
             "city": "Los Angeles - Figueroa Park Square",
-            "cases": "36",
-            "rate": "412.8"
+            "cases": "37",
+            "rate": "424.26"
         },
         {
             "city": "Los Angeles - Florence-Firestone",
-            "cases": "355",
-            "rate": "748.23"
+            "cases": "371",
+            "rate": "781.96"
         },
         {
             "city": "Los Angeles - Glassell Park",
-            "cases": "179",
-            "rate": "566.38"
+            "cases": "181",
+            "rate": "572.71"
         },
         {
             "city": "Los Angeles - Gramercy Place",
-            "cases": "64",
-            "rate": "594.57"
+            "cases": "66",
+            "rate": "613.15"
         },
         {
             "city": "Los Angeles - Granada Hills",
-            "cases": "299",
-            "rate": "513.83"
+            "cases": "312",
+            "rate": "536.17"
         },
         {
             "city": "Los Angeles - Green Meadows",
-            "cases": "152",
-            "rate": "706.81"
+            "cases": "157",
+            "rate": "730.06"
         },
         {
             "city": "Los Angeles - Hancock Park",
-            "cases": "78",
-            "rate": "457.77"
+            "cases": "79",
+            "rate": "463.64"
         },
         {
             "city": "Los Angeles - Harbor City",
-            "cases": "89",
-            "rate": "306.16"
+            "cases": "93",
+            "rate": "319.92"
         },
         {
             "city": "Los Angeles - Harbor Gateway",
-            "cases": "128",
-            "rate": "293.58"
+            "cases": "131",
+            "rate": "300.46"
         },
         {
             "city": "Los Angeles - Harbor Pines",
@@ -782,28 +922,28 @@
         },
         {
             "city": "Los Angeles - Harvard Heights",
-            "cases": "129",
-            "rate": "715.28"
+            "cases": "130",
+            "rate": "720.82"
         },
         {
             "city": "Los Angeles - Harvard Park",
-            "cases": "278",
-            "rate": "732.83"
+            "cases": "293",
+            "rate": "772.37"
         },
         {
             "city": "Los Angeles - Highland Park",
-            "cases": "188",
-            "rate": "388.5"
+            "cases": "194",
+            "rate": "400.9"
         },
         {
             "city": "Los Angeles - Historic Filipinotown",
-            "cases": "130",
-            "rate": "937.27"
+            "cases": "131",
+            "rate": "944.48"
         },
         {
             "city": "Los Angeles - Hollywood",
-            "cases": "264",
-            "rate": "386.79"
+            "cases": "268",
+            "rate": "392.65"
         },
         {
             "city": "Los Angeles - Hollywood Hills",
@@ -812,8 +952,8 @@
         },
         {
             "city": "Los Angeles - Hyde Park",
-            "cases": "137",
-            "rate": "480.01"
+            "cases": "141",
+            "rate": "494.03"
         },
         {
             "city": "Los Angeles - Jefferson Park",
@@ -822,8 +962,8 @@
         },
         {
             "city": "Los Angeles - Koreatown",
-            "cases": "261",
-            "rate": "504.9"
+            "cases": "265",
+            "rate": "512.64"
         },
         {
             "city": "Los Angeles - Lafayette Square",
@@ -832,13 +972,13 @@
         },
         {
             "city": "Los Angeles - Lake Balboa",
-            "cases": "190",
-            "rate": "450.17"
+            "cases": "197",
+            "rate": "466.76"
         },
         {
             "city": "Los Angeles - Lakeview Terrace",
-            "cases": "106",
-            "rate": "807.13"
+            "cases": "108",
+            "rate": "822.36"
         },
         {
             "city": "Los Angeles - Leimert Park",
@@ -847,18 +987,18 @@
         },
         {
             "city": "Los Angeles - Lincoln Heights",
-            "cases": "225",
-            "rate": "690.25"
+            "cases": "231",
+            "rate": "708.65"
         },
         {
             "city": "Los Angeles - Little Armenia",
-            "cases": "190",
-            "rate": "2367.6"
+            "cases": "191",
+            "rate": "2380.06"
         },
         {
             "city": "Los Angeles - Little Bangladesh",
-            "cases": "124",
-            "rate": "437.5"
+            "cases": "129",
+            "rate": "455.14"
         },
         {
             "city": "Los Angeles - Little Tokyo",
@@ -872,8 +1012,8 @@
         },
         {
             "city": "Los Angeles - Los Feliz",
-            "cases": "49",
-            "rate": "226.77"
+            "cases": "51",
+            "rate": "236.02"
         },
         {
             "city": "Los Angeles - Manchester Square",
@@ -897,53 +1037,53 @@
         },
         {
             "city": "Los Angeles - Melrose",
-            "cases": "538",
-            "rate": "692.44"
+            "cases": "545",
+            "rate": "701.45"
         },
         {
             "city": "Los Angeles - Mid-city",
-            "cases": "55",
-            "rate": "365.93"
+            "cases": "56",
+            "rate": "372.59"
         },
         {
             "city": "Los Angeles - Miracle Mile",
-            "cases": "40",
-            "rate": "222.41"
+            "cases": "41",
+            "rate": "227.97"
         },
         {
             "city": "Los Angeles - Mission Hills",
-            "cases": "139",
-            "rate": "576.19"
+            "cases": "144",
+            "rate": "596.92"
         },
         {
             "city": "Los Angeles - Mt. Washington",
-            "cases": "100",
-            "rate": "414.16"
+            "cases": "102",
+            "rate": "422.45"
         },
         {
             "city": "Los Angeles - North Hills",
-            "cases": "421",
-            "rate": "683.72"
+            "cases": "433",
+            "rate": "703.21"
         },
         {
             "city": "Los Angeles - North Hollywood",
-            "cases": "660",
-            "rate": "435.87"
+            "cases": "669",
+            "rate": "441.81"
         },
         {
             "city": "Los Angeles - Northridge",
-            "cases": "314",
-            "rate": "449.88"
+            "cases": "321",
+            "rate": "459.91"
         },
         {
             "city": "Los Angeles - Pacific Palisades",
-            "cases": "52",
-            "rate": "244.23"
+            "cases": "55",
+            "rate": "258.33"
         },
         {
             "city": "Los Angeles - Pacoima",
-            "cases": "664",
-            "rate": "862.57"
+            "cases": "686",
+            "rate": "891.15"
         },
         {
             "city": "Los Angeles - Palisades Highlands",
@@ -952,13 +1092,13 @@
         },
         {
             "city": "Los Angeles - Palms",
-            "cases": "185",
-            "rate": "421.63"
+            "cases": "188",
+            "rate": "428.47"
         },
         {
             "city": "Los Angeles - Panorama City",
-            "cases": "693",
-            "rate": "920.93"
+            "cases": "731",
+            "rate": "971.43"
         },
         {
             "city": "Los Angeles - Park La Brea",
@@ -967,8 +1107,8 @@
         },
         {
             "city": "Los Angeles - Pico-Union",
-            "cases": "514",
-            "rate": "1228.43"
+            "cases": "531",
+            "rate": "1269.06"
         },
         {
             "city": "Los Angeles - Playa Del Rey",
@@ -987,8 +1127,8 @@
         },
         {
             "city": "Los Angeles - Rancho Park",
-            "cases": "17",
-            "rate": "259.15"
+            "cases": "18",
+            "rate": "274.39"
         },
         {
             "city": "Los Angeles - Regent Square",
@@ -997,13 +1137,13 @@
         },
         {
             "city": "Los Angeles - Reseda",
-            "cases": "528",
-            "rate": "689.14"
+            "cases": "544",
+            "rate": "710.03"
         },
         {
             "city": "Los Angeles - Reseda Ranch",
-            "cases": "30",
-            "rate": "647.11"
+            "cases": "31",
+            "rate": "668.68"
         },
         {
             "city": "Los Angeles - Reynier Village",
@@ -1012,23 +1152,23 @@
         },
         {
             "city": "Los Angeles - San Pedro*",
-            "cases": "883",
-            "rate": "1131.5"
+            "cases": "893",
+            "rate": "1144.31"
         },
         {
             "city": "Los Angeles - Shadow Hills",
-            "cases": "10",
-            "rate": "225.12"
+            "cases": "11",
+            "rate": "247.64"
         },
         {
             "city": "Los Angeles - Sherman Oaks",
-            "cases": "222",
-            "rate": "254.43"
+            "cases": "224",
+            "rate": "256.72"
         },
         {
             "city": "Los Angeles - Silverlake",
-            "cases": "175",
-            "rate": "396.98"
+            "cases": "176",
+            "rate": "399.25"
         },
         {
             "city": "Los Angeles - South Carthay",
@@ -1037,8 +1177,8 @@
         },
         {
             "city": "Los Angeles - South Park",
-            "cases": "348",
-            "rate": "916.73"
+            "cases": "369",
+            "rate": "972.05"
         },
         {
             "city": "Los Angeles - St Elmo Village",
@@ -1052,13 +1192,13 @@
         },
         {
             "city": "Los Angeles - Sun Valley",
-            "cases": "286",
-            "rate": "544.94"
+            "cases": "293",
+            "rate": "558.28"
         },
         {
             "city": "Los Angeles - Sunland",
-            "cases": "144",
-            "rate": "705.61"
+            "cases": "146",
+            "rate": "715.41"
         },
         {
             "city": "Los Angeles - Sycamore Square",
@@ -1067,18 +1207,18 @@
         },
         {
             "city": "Los Angeles - Sylmar*",
-            "cases": "749",
-            "rate": "909"
+            "cases": "772",
+            "rate": "936.92"
         },
         {
             "city": "Los Angeles - Tarzana",
-            "cases": "157",
-            "rate": "508.49"
+            "cases": "160",
+            "rate": "518.2"
         },
         {
             "city": "Los Angeles - Temple-Beaudry",
-            "cases": "308",
-            "rate": "780.1"
+            "cases": "312",
+            "rate": "790.23"
         },
         {
             "city": "Los Angeles - Thai Town",
@@ -1102,8 +1242,8 @@
         },
         {
             "city": "Los Angeles - Tujunga",
-            "cases": "116",
-            "rate": "417.12"
+            "cases": "121",
+            "rate": "435.1"
         },
         {
             "city": "Los Angeles - University Hills",
@@ -1112,23 +1252,23 @@
         },
         {
             "city": "Los Angeles - University Park",
-            "cases": "172",
-            "rate": "626.46"
+            "cases": "180",
+            "rate": "655.59"
         },
         {
             "city": "Los Angeles - Valley Glen",
-            "cases": "124",
-            "rate": "413.11"
+            "cases": "127",
+            "rate": "423.11"
         },
         {
             "city": "Los Angeles - Valley Village",
-            "cases": "203",
-            "rate": "821.2"
+            "cases": "207",
+            "rate": "837.38"
         },
         {
             "city": "Los Angeles - Van Nuys",
-            "cases": "664",
-            "rate": "712.49"
+            "cases": "674",
+            "rate": "723.22"
         },
         {
             "city": "Los Angeles - Venice",
@@ -1137,38 +1277,38 @@
         },
         {
             "city": "Los Angeles - Vermont Knolls",
-            "cases": "133",
-            "rate": "773.26"
+            "cases": "140",
+            "rate": "813.95"
         },
         {
             "city": "Los Angeles - Vermont Square",
-            "cases": "83",
-            "rate": "1083.98"
+            "cases": "84",
+            "rate": "1097.04"
         },
         {
             "city": "Los Angeles - Vermont Vista",
-            "cases": "298",
-            "rate": "723.55"
+            "cases": "310",
+            "rate": "752.68"
         },
         {
             "city": "Los Angeles - Vernon Central",
-            "cases": "563",
-            "rate": "1082.73"
+            "cases": "584",
+            "rate": "1123.12"
         },
         {
             "city": "Los Angeles - Victoria Park",
-            "cases": "56",
-            "rate": "666.75"
+            "cases": "57",
+            "rate": "678.65"
         },
         {
             "city": "Los Angeles - View Heights",
-            "cases": "8",
-            "rate": "216.57"
+            "cases": "9",
+            "rate": "243.64"
         },
         {
             "city": "Los Angeles - Watts",
-            "cases": "268",
-            "rate": "628.02"
+            "cases": "281",
+            "rate": "658.48"
         },
         {
             "city": "Los Angeles - Wellington Square",
@@ -1177,23 +1317,23 @@
         },
         {
             "city": "Los Angeles - West Adams",
-            "cases": "202",
-            "rate": "731.09"
+            "cases": "207",
+            "rate": "749.19"
         },
         {
             "city": "Los Angeles - West Hills",
-            "cases": "130",
-            "rate": "320.63"
+            "cases": "133",
+            "rate": "328.03"
         },
         {
             "city": "Los Angeles - West Los Angeles",
-            "cases": "74",
-            "rate": "196.62"
+            "cases": "79",
+            "rate": "209.91"
         },
         {
             "city": "Los Angeles - West Vernon",
-            "cases": "435",
-            "rate": "810.9"
+            "cases": "441",
+            "rate": "822.09"
         },
         {
             "city": "Los Angeles - Westchester",
@@ -1202,38 +1342,38 @@
         },
         {
             "city": "Los Angeles - Westlake",
-            "cases": "693",
-            "rate": "1167.55"
+            "cases": "703",
+            "rate": "1184.4"
         },
         {
             "city": "Los Angeles - Westwood",
-            "cases": "66",
-            "rate": "121.98"
+            "cases": "67",
+            "rate": "123.82"
         },
         {
             "city": "Los Angeles - Wholesale District*",
-            "cases": "653",
-            "rate": "1807.41"
+            "cases": "661",
+            "rate": "1829.56"
         },
         {
             "city": "Los Angeles - Wilmington",
-            "cases": "225",
-            "rate": "398.32"
+            "cases": "231",
+            "rate": "408.94"
         },
         {
             "city": "Los Angeles - Wilshire Center",
-            "cases": "228",
-            "rate": "454.45"
+            "cases": "232",
+            "rate": "462.43"
         },
         {
             "city": "Los Angeles - Winnetka",
-            "cases": "282",
-            "rate": "544.55"
+            "cases": "283",
+            "rate": "546.48"
         },
         {
             "city": "Los Angeles - Woodland Hills",
-            "cases": "155",
-            "rate": "227.76"
+            "cases": "157",
+            "rate": "230.7"
         },
         {
             "city": "Unincorporated - Acton",
@@ -1242,13 +1382,13 @@
         },
         {
             "city": "Unincorporated - Agua Dulce",
-            "cases": "7",
-            "rate": "168.35"
+            "cases": "8",
+            "rate": "192.4"
         },
         {
             "city": "Unincorporated - Altadena",
-            "cases": "143",
-            "rate": "327.83"
+            "cases": "144",
+            "rate": "330.12"
         },
         {
             "city": "Unincorporated - Anaverde",
@@ -1257,8 +1397,8 @@
         },
         {
             "city": "Unincorporated - Angeles National Forest",
-            "cases": "0",
-            "rate": "0"
+            "cases": "1",
+            "rate": "80.32"
         },
         {
             "city": "Unincorporated - Arcadia",
@@ -1267,8 +1407,8 @@
         },
         {
             "city": "Unincorporated - Athens-Westmont",
-            "cases": "219",
-            "rate": "516"
+            "cases": "220",
+            "rate": "518.35"
         },
         {
             "city": "Unincorporated - Athens Village",
@@ -1277,23 +1417,23 @@
         },
         {
             "city": "Unincorporated - Avocado Heights",
-            "cases": "23",
-            "rate": "339.48"
+            "cases": "24",
+            "rate": "354.24"
         },
         {
             "city": "Unincorporated - Azusa",
-            "cases": "58",
-            "rate": "364.25"
+            "cases": "60",
+            "rate": "376.81"
         },
         {
             "city": "Unincorporated - Bassett",
-            "cases": "81",
-            "rate": "546.67"
+            "cases": "82",
+            "rate": "553.42"
         },
         {
             "city": "Unincorporated - Bouquet Canyon",
-            "cases": "0",
-            "rate": "0"
+            "cases": "1",
+            "rate": "93.2"
         },
         {
             "city": "Unincorporated - Bradbury",
@@ -1307,8 +1447,8 @@
         },
         {
             "city": "Unincorporated - Castaic*",
-            "cases": "322",
-            "rate": "1184.22"
+            "cases": "340",
+            "rate": "1250.41"
         },
         {
             "city": "Unincorporated - Cerritos",
@@ -1327,23 +1467,23 @@
         },
         {
             "city": "Unincorporated - Covina",
-            "cases": "56",
-            "rate": "332.96"
+            "cases": "57",
+            "rate": "338.9"
         },
         {
             "city": "Unincorporated - Covina (Charter Oak)",
-            "cases": "41",
-            "rate": "311.93"
+            "cases": "42",
+            "rate": "319.54"
         },
         {
             "city": "Unincorporated - Del Aire",
-            "cases": "14",
-            "rate": "318.69"
+            "cases": "15",
+            "rate": "341.45"
         },
         {
             "city": "Unincorporated - Del Rey",
-            "cases": "0",
-            "rate": "0"
+            "cases": "1",
+            "rate": "314.47"
         },
         {
             "city": "Unincorporated - Del Sur",
@@ -1377,8 +1517,8 @@
         },
         {
             "city": "Unincorporated - East Los Angeles",
-            "cases": "843",
-            "rate": "672.95"
+            "cases": "865",
+            "rate": "690.51"
         },
         {
             "city": "Unincorporated - East Pasadena",
@@ -1387,8 +1527,8 @@
         },
         {
             "city": "Unincorporated - East Rancho Dominguez",
-            "cases": "46",
-            "rate": "300.5"
+            "cases": "47",
+            "rate": "307.03"
         },
         {
             "city": "Unincorporated - East Whittier",
@@ -1397,8 +1537,8 @@
         },
         {
             "city": "Unincorporated - El Camino Village",
-            "cases": "30",
-            "rate": "341.26"
+            "cases": "32",
+            "rate": "364.01"
         },
         {
             "city": "Unincorporated - El Monte",
@@ -1412,8 +1552,8 @@
         },
         {
             "city": "Unincorporated - Florence-Firestone",
-            "cases": "553",
-            "rate": "854.65"
+            "cases": "562",
+            "rate": "868.56"
         },
         {
             "city": "Unincorporated - Franklin Canyon",
@@ -1427,8 +1567,8 @@
         },
         {
             "city": "Unincorporated - Hacienda Heights",
-            "cases": "131",
-            "rate": "234.24"
+            "cases": "134",
+            "rate": "239.6"
         },
         {
             "city": "Unincorporated - Harbor Gateway",
@@ -1472,8 +1612,8 @@
         },
         {
             "city": "Unincorporated - Ladera Heights",
-            "cases": "19",
-            "rate": "268.7"
+            "cases": "20",
+            "rate": "282.85"
         },
         {
             "city": "Unincorporated - Lake Hughes",
@@ -1497,8 +1637,8 @@
         },
         {
             "city": "Unincorporated - Lennox",
-            "cases": "90",
-            "rate": "399.25"
+            "cases": "93",
+            "rate": "412.56"
         },
         {
             "city": "Unincorporated - Leona Valley",
@@ -1552,13 +1692,13 @@
         },
         {
             "city": "Unincorporated - North Whittier",
-            "cases": "11",
-            "rate": "131.58"
+            "cases": "12",
+            "rate": "143.54"
         },
         {
             "city": "Unincorporated - Northeast San Gabriel",
-            "cases": "52",
-            "rate": "216.34"
+            "cases": "53",
+            "rate": "220.5"
         },
         {
             "city": "Unincorporated - Palmdale",
@@ -1622,8 +1762,8 @@
         },
         {
             "city": "Unincorporated - Rowland Heights",
-            "cases": "124",
-            "rate": "243.03"
+            "cases": "126",
+            "rate": "246.95"
         },
         {
             "city": "Unincorporated - San Clemente Island",
@@ -1637,8 +1777,8 @@
         },
         {
             "city": "Unincorporated - San Jose Hills",
-            "cases": "57",
-            "rate": "281.89"
+            "cases": "58",
+            "rate": "286.83"
         },
         {
             "city": "Unincorporated - San Pasqual",
@@ -1657,8 +1797,8 @@
         },
         {
             "city": "Unincorporated - Santa Monica Mountains",
-            "cases": "21",
-            "rate": "112.78"
+            "cases": "22",
+            "rate": "118.15"
         },
         {
             "city": "Unincorporated - Saugus",
@@ -1687,8 +1827,8 @@
         },
         {
             "city": "Unincorporated - South Whittier",
-            "cases": "144",
-            "rate": "243.15"
+            "cases": "148",
+            "rate": "249.91"
         },
         {
             "city": "Unincorporated - Southeast Antelope Valley",
@@ -1697,13 +1837,13 @@
         },
         {
             "city": "Unincorporated - Stevenson Ranch",
-            "cases": "33",
-            "rate": "157.4"
+            "cases": "34",
+            "rate": "162.17"
         },
         {
             "city": "Unincorporated - Sun Village",
-            "cases": "15",
-            "rate": "248.51"
+            "cases": "16",
+            "rate": "265.08"
         },
         {
             "city": "Unincorporated - Sunrise Village",
@@ -1727,8 +1867,8 @@
         },
         {
             "city": "Unincorporated - Valinda",
-            "cases": "85",
-            "rate": "363.7"
+            "cases": "87",
+            "rate": "372.26"
         },
         {
             "city": "Unincorporated - View Park/Windsor Hills",
@@ -1737,8 +1877,8 @@
         },
         {
             "city": "Unincorporated - Walnut Park",
-            "cases": "113",
-            "rate": "699.99"
+            "cases": "116",
+            "rate": "718.58"
         },
         {
             "city": "Unincorporated - West Antelope Valley",
@@ -1772,8 +1912,8 @@
         },
         {
             "city": "Unincorporated - West Whittier/Los Nietos",
-            "cases": "126",
-            "rate": "467.97"
+            "cases": "128",
+            "rate": "475.39"
         },
         {
             "city": "Unincorporated - Westfield/Academy Hills",
@@ -1802,8 +1942,8 @@
         },
         {
             "city": "Unincorporated - Willowbrook",
-            "cases": "193",
-            "rate": "552.8"
+            "cases": "200",
+            "rate": "572.85"
         },
         {
             "city": "Unincorporated - Wiseburn",
@@ -1812,1546 +1952,1406 @@
         },
         {
             "city": "- Under Investigation",
-            "cases": "1940",
+            "cases": "1948",
             "rate": ""
         },
         {
             "city": "1",
-            "cases": "A Bridge Home - St. Andrew's",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "2",
-            "cases": "A Bridge Home- Casa Azul",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "3",
             "cases": "ANL Facility Home Inc.",
             "rate": "Norwalk, CA"
         },
         {
-            "city": "4",
+            "city": "2",
             "cases": "Affinity Healthcare Center",
             "rate": "Paramount, CA"
         },
         {
-            "city": "5",
+            "city": "3",
             "cases": "Alameda Care Center",
             "rate": "Burbank, CA"
         },
         {
-            "city": "6",
+            "city": "4",
             "cases": "Alcott Rehabilitation Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "7",
+            "city": "5",
             "cases": "Alden Terrace Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "8",
+            "city": "6",
             "cases": "Alexandria Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "9",
+            "city": "7",
             "cases": "Alhambra Healthcare &amp; Wellness Centre, LP",
             "rate": "Alhambra, CA"
         },
         {
-            "city": "10",
+            "city": "8",
+            "cases": "Antelope Valley Care Center (2)",
+            "rate": "Lancaster, CA"
+        },
+        {
+            "city": "9",
             "cases": "Antelope Valley Rehabilitation Facility",
             "rate": "Acton, CA"
         },
         {
-            "city": "11",
+            "city": "10",
             "cases": "Ararat Convalescent Hospital",
             "rate": "Eagle Rock, CA"
         },
         {
-            "city": "12",
+            "city": "11",
             "cases": "Arbor Glen Care Center",
             "rate": "Glendora, CA"
         },
         {
-            "city": "13",
+            "city": "12",
             "cases": "Arc Board And Care",
             "rate": "La Mirada, CA"
         },
         {
-            "city": "14",
+            "city": "13",
             "cases": "Astoria Nursing And Rehab Center",
             "rate": "Sylmar, CA"
         },
         {
-            "city": "15",
+            "city": "14",
             "cases": "Atria Pacific Palisades",
             "rate": "Pacific Palisades, CA"
         },
         {
-            "city": "16",
+            "city": "15",
             "cases": "Autumn Hills Health Care Center",
             "rate": "Glendale, CA"
         },
         {
-            "city": "17",
+            "city": "16",
             "cases": "Avantgarde Senior Living And Memory Care",
             "rate": "Tarzana, CA"
         },
         {
-            "city": "18",
+            "city": "17",
             "cases": "Baldwin Gardens Nursing Center",
             "rate": "Temple City, CA"
         },
         {
-            "city": "19",
+            "city": "18",
             "cases": "Barry J. Nidorf Juvenile Hall",
             "rate": "Sylmar, CA"
         },
         {
-            "city": "20",
+            "city": "19",
             "cases": "Beachwood Post Acute &amp; Rehab",
             "rate": "Santa Monica, CA"
         },
         {
-            "city": "21",
-            "cases": "Beacon Healthcare Center (2)",
+            "city": "20",
+            "cases": "Beacon Healthcare Center",
             "rate": "West Covina, CA"
         },
         {
-            "city": "22",
+            "city": "21",
             "cases": "Bel Tooren Villa Convalescent Hospital",
             "rate": "Bellflower, CA"
         },
         {
-            "city": "23",
+            "city": "22",
             "cases": "Bell Convalescent Hospital",
             "rate": "Bell, CA"
         },
         {
-            "city": "24",
+            "city": "23",
             "cases": "Belmont Village Rancho Palos Verdes",
             "rate": "Rancho Palos Verdes, CA"
         },
         {
-            "city": "25",
+            "city": "24",
             "cases": "Belmont Village of Encino",
             "rate": "Sherman Oaks, CA"
         },
         {
-            "city": "26",
+            "city": "25",
             "cases": "Belmont Village-Calabasas",
             "rate": "Calabasas, CA"
         },
         {
-            "city": "27",
+            "city": "26",
             "cases": "Berkley Valley Convalescent Hospital",
             "rate": "Van Nuys, CA"
         },
         {
-            "city": "28",
+            "city": "27",
             "cases": "Beverly Hills Carmel South",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "29",
+            "city": "28",
             "cases": "Beverly Hills Gardens Board And Care",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "30",
+            "city": "29",
             "cases": "Beverly West Healthcare",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "31",
+            "city": "30",
             "cases": "Beverlywood Residential Facility",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "32",
+            "city": "31",
             "cases": "Bonnie Brae Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "33",
+            "city": "32",
             "cases": "Brentwood Healthcare Center",
             "rate": "Santa Monica, CA"
         },
         {
-            "city": "34",
+            "city": "33",
             "cases": "Bridges To Recovery",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "35",
+            "city": "34",
             "cases": "Brier Oak On Sunset",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "36",
+            "city": "35",
             "cases": "Brookdale Central Senior Living-Whittier",
             "rate": "Whittier, CA"
         },
         {
-            "city": "37",
+            "city": "36",
             "cases": "Brookdale Monrovia",
             "rate": "Monrovia, CA"
         },
         {
-            "city": "38",
+            "city": "37",
             "cases": "Brookdale Northridge Assisted Living",
             "rate": "Northridge, CA"
         },
         {
-            "city": "39",
+            "city": "38",
             "cases": "Brookdale Northridge Memory Care",
             "rate": "Northridge, CA"
         },
         {
-            "city": "40",
+            "city": "39",
             "cases": "Brookfield Healthcare Center",
             "rate": "Downey, CA"
         },
         {
-            "city": "41",
-            "cases": "Bryant Temple Women's Winter Shelter",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "42",
+            "city": "40",
             "cases": "Buena Ventura Post Acute Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "43",
+            "city": "41",
             "cases": "Burbank Healthcare And Rehabilitation Center",
             "rate": "Burbank, CA"
         },
         {
-            "city": "44",
+            "city": "42",
             "cases": "Burlington Convalescent Hospital (1)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "45",
+            "city": "43",
             "cases": "Burlington Convalescent Hospital (2)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "46",
+            "city": "44",
             "cases": "CPES California Napa Street",
             "rate": "North Hills, CA"
         },
         {
-            "city": "47",
+            "city": "45",
             "cases": "California Healthcare And Rehabilitation Center",
             "rate": "Van Nuys, CA"
         },
         {
-            "city": "48",
+            "city": "46",
             "cases": "California Post Acute Care",
             "rate": "Lynwood, CA"
         },
         {
-            "city": "49",
+            "city": "47",
             "cases": "California Post Acute Convalescent Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "50",
+            "city": "48",
             "cases": "California State Prison, Lancaster",
             "rate": "Lancaster, CA"
         },
         {
-            "city": "51",
+            "city": "49",
             "cases": "Canyon Oaks Nursing And Rehabilitation Center",
             "rate": "Canoga Park, CA"
         },
         {
-            "city": "52",
+            "city": "50",
             "cases": "Carson Senior Assisted Living",
             "rate": "Carson, CA"
         },
         {
-            "city": "53",
+            "city": "51",
             "cases": "Casitas Care Center",
             "rate": "Granada Hills, CA"
         },
         {
-            "city": "54",
+            "city": "52",
             "cases": "Cedars Assisted Living",
             "rate": "Northridge, CA"
         },
         {
-            "city": "55",
+            "city": "53",
             "cases": "Centinela Skilled Nursing &amp; Wellness Centre West",
             "rate": "Inglewood, CA"
         },
         {
-            "city": "56",
+            "city": "54",
             "cases": "Central Juvenile Hall",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "57",
+            "city": "55",
             "cases": "Century Regional Detention Facility",
             "rate": "Lynwood, CA"
         },
         {
-            "city": "58",
+            "city": "56",
             "cases": "Century Villa, Inc. Skilled Nursing Facility",
             "rate": "Inglewood, CA"
         },
         {
-            "city": "59",
+            "city": "57",
             "cases": "Chandler Convalescent Hospital",
             "rate": "Glendale, CA"
         },
         {
-            "city": "60",
+            "city": "58",
             "cases": "Chatsworth Park Care Center",
             "rate": "Chatsworth, CA"
         },
         {
-            "city": "61",
-            "cases": "Cheviot Hills Rec Center",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "62",
+            "city": "59",
             "cases": "City View Assisted Living",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "63",
+            "city": "60",
             "cases": "Clara Baldwin Stocker Home",
             "rate": "West Covina, CA"
         },
         {
-            "city": "64",
+            "city": "61",
             "cases": "College Hospital",
             "rate": "Cerritos, CA"
         },
         {
-            "city": "65",
+            "city": "62",
             "cases": "Colonial Gardens Nursing Home",
             "rate": "Pico Rivera, CA"
         },
         {
-            "city": "66",
+            "city": "63",
             "cases": "Community Care Center Inc.",
             "rate": "Duarte, CA"
         },
         {
-            "city": "67",
+            "city": "64",
             "cases": "Continental Guest Home",
             "rate": "La Mirada, CA"
         },
         {
-            "city": "68",
+            "city": "65",
             "cases": "Coral Oaks Care Living",
             "rate": "Lynwood, CA"
         },
         {
-            "city": "69",
+            "city": "66",
             "cases": "Corbin Congregate Home, Inc",
             "rate": "Northridge, CA"
         },
         {
-            "city": "70",
+            "city": "67",
+            "cases": "Country Villa Claremont Healthcare Center",
+            "rate": "Claremont, CA"
+        },
+        {
+            "city": "68",
             "cases": "Country Villa East Nursing Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "71",
-            "cases": "Country Villa Los Feliz Nursing Center (1)",
+            "city": "69",
+            "cases": "Country Villa Los Feliz Nursing Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "72",
+            "city": "70",
             "cases": "Country Villa Mar Vista Nursing Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "73",
+            "city": "71",
             "cases": "Country Villa North Convalescent Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "74",
+            "city": "72",
             "cases": "Country Villa Pavilion Nursing Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "75",
+            "city": "73",
             "cases": "Country Villa Sheraton Nursing And Rehab Center",
             "rate": "Sepulveda, CA"
         },
         {
-            "city": "76",
+            "city": "74",
             "cases": "Country Villa Westwood Convalescent Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "77",
+            "city": "75",
             "cases": "Country Villa Wilshire Convalescent Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "78",
+            "city": "76",
             "cases": "County Villa Rehabilitation Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "79",
+            "city": "77",
             "cases": "Covina Rehabilitation Center",
             "rate": "Covina, CA"
         },
         {
-            "city": "80",
+            "city": "78",
             "cases": "Culver West Health Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "81",
+            "city": "79",
             "cases": "Del Rio Convalescent Center",
             "rate": "Bell Gardens, CA"
         },
         {
-            "city": "82",
+            "city": "80",
             "cases": "Del Rio Gardens Care Center",
             "rate": "Bell Gardens, CA"
         },
         {
-            "city": "83",
+            "city": "81",
             "cases": "Dewey Home",
             "rate": "Santa Monica, CA"
         },
         {
-            "city": "84",
+            "city": "82",
+            "cases": "Downey Community Health Center",
+            "rate": "Downey, CA"
+        },
+        {
+            "city": "83",
             "cases": "Downey Post Acute",
             "rate": "Downey, CA"
         },
         {
-            "city": "85",
+            "city": "84",
             "cases": "Driftwood Healthcare Center",
             "rate": "Torrance, CA"
         },
         {
-            "city": "86",
+            "city": "85",
             "cases": "East Los Angeles Doctors Hospital D/P SNF",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "87",
+            "city": "86",
             "cases": "Eisenberg Village",
             "rate": "Reseda, CA"
         },
         {
-            "city": "88",
+            "city": "87",
             "cases": "El Encanto Healthcare And Habilitation Center",
             "rate": "City Of Industry, CA"
         },
         {
-            "city": "89",
+            "city": "88",
             "cases": "El Rancho Vista Health Care Center",
             "rate": "Pico Rivera, CA"
         },
         {
-            "city": "90",
+            "city": "89",
             "cases": "Ellison John Transitional Care Ctr. SNF",
             "rate": "Lancaster, CA"
         },
         {
-            "city": "91",
+            "city": "90",
             "cases": "Elmcrest Care Center",
             "rate": "El Monte, CA"
         },
         {
-            "city": "92",
+            "city": "91",
             "cases": "Elwyn Doreen",
             "rate": "Temple City, CA"
         },
         {
-            "city": "93",
+            "city": "92",
             "cases": "Elysium Residential Care",
             "rate": "Granada Hills, CA"
         },
         {
-            "city": "94",
+            "city": "93",
             "cases": "Emerald Terrace Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "95",
-            "cases": "Encampment #1 - Van Nuys",
-            "rate": "Van Nuys, CA"
-        },
-        {
-            "city": "96",
-            "cases": "Encampment-Sun Valley",
-            "rate": "Sun Valley, CA"
-        },
-        {
-            "city": "97",
+            "city": "94",
             "cases": "Evening Grace Residential Facility For Elderly LLC",
             "rate": "Sherwood Forest, CA"
         },
         {
-            "city": "98",
+            "city": "95",
             "cases": "FCI, Terminal Island",
             "rate": "San Pedro, CA"
         },
         {
-            "city": "99",
+            "city": "96",
             "cases": "Fallbrook Glen West Hills Asstd Living",
             "rate": "West Hills, CA"
         },
         {
-            "city": "100",
-            "cases": "First To Serve - Coronado",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "101",
+            "city": "97",
             "cases": "Flower Villa Convalescent",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "102",
-            "cases": "Four Seasons Assisted Living Center",
-            "rate": "Valley Village, CA"
-        },
-        {
-            "city": "103",
+            "city": "98",
             "cases": "Four Seasons Healthcare &amp; Wellness Center, LP",
             "rate": "Valley Village, CA"
         },
         {
-            "city": "104",
+            "city": "99",
             "cases": "Garden Crest Assisted Living",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "105",
+            "city": "100",
             "cases": "Garden Crest Rehabilitation Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "106",
+            "city": "101",
             "cases": "Gardena Convalescent Center",
             "rate": "Gardena, CA"
         },
         {
-            "city": "107",
+            "city": "102",
             "cases": "Glendale Adventist Medical Center D/P SNF",
             "rate": "Glendale, CA"
         },
         {
-            "city": "108",
+            "city": "103",
             "cases": "Glendale Healthcare Center",
             "rate": "Glendale, CA"
         },
         {
-            "city": "109",
+            "city": "104",
             "cases": "Glendale Post Acute Care Center",
             "rate": "Glendale, CA"
         },
         {
-            "city": "110",
+            "city": "105",
             "cases": "Glendora Grand Convalescent Hospital",
             "rate": "Glendora, CA"
         },
         {
-            "city": "111",
+            "city": "106",
             "cases": "Glenhaven Healthcare",
             "rate": "Glendale, CA"
         },
         {
-            "city": "112",
+            "city": "107",
             "cases": "Glenoaks Convalescent Hospital",
             "rate": "Glendale, CA"
         },
         {
-            "city": "113",
+            "city": "108",
             "cases": "Golden Assisted Living",
             "rate": "Sylmar, CA"
         },
         {
-            "city": "114",
+            "city": "109",
             "cases": "Good Samaritan Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "115",
+            "city": "110",
             "cases": "Granada Hills Convalescent Hospital",
             "rate": "Granada Hills, CA"
         },
         {
-            "city": "116",
-            "cases": "Granada Hills Recreation Center",
-            "rate": "Granada Hills, CA"
-        },
-        {
-            "city": "117",
+            "city": "111",
             "cases": "Granada Post Acute",
             "rate": "Lynwood, CA"
         },
         {
-            "city": "118",
+            "city": "112",
             "cases": "Grancell Village of The Jewish Homes For The Aging",
             "rate": "Reseda, CA"
         },
         {
-            "city": "119",
-            "cases": "Grand Avenue Corridor Encampment",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "120",
+            "city": "113",
             "cases": "Grand Park Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "121",
+            "city": "114",
             "cases": "Grandview Retirement Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "122",
+            "city": "115",
             "cases": "Green Acres Healthcare Center",
             "rate": "Rosemead, CA"
         },
         {
-            "city": "123",
-            "cases": "Green Meadows Recreation Center",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "124",
+            "city": "116",
             "cases": "Griffith Park Health Care Center",
             "rate": "Glendale, CA"
         },
         {
-            "city": "125",
+            "city": "117",
             "cases": "Guardian Rehabilitation Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "126",
+            "city": "118",
             "cases": "Harbor Post Acute Care Center",
             "rate": "Torrance, CA"
         },
         {
-            "city": "127",
+            "city": "119",
             "cases": "Hawthorne Healthcare &amp; Wellness Centre",
             "rate": "Hawthorne, CA"
         },
         {
-            "city": "128",
+            "city": "120",
             "cases": "Heritage Rehabilitation Center",
             "rate": "Torrance, CA"
         },
         {
-            "city": "129",
+            "city": "121",
             "cases": "High Valley Lodge",
             "rate": "Sunland, CA"
         },
         {
-            "city": "130",
+            "city": "122",
             "cases": "Highland Park Skilled Nursing &amp; Wellness Centre",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "131",
+            "city": "123",
             "cases": "Hollywood Premier Healthcare Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "132",
-            "cases": "Home At Last (Men's Interim Housing)",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "133",
-            "cases": "Home At Last- Manchester",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "134",
+            "city": "124",
             "cases": "Huntington Drive Health &amp; Rehabitition Center",
             "rate": "Arcadia, CA"
         },
         {
-            "city": "135",
+            "city": "125",
             "cases": "Huntington Healthcare Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "136",
+            "city": "126",
             "cases": "Hyde Park Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "137",
+            "city": "127",
             "cases": "Idle Acre Sanitarium &amp; Convalescent Hospital",
             "rate": "El Monte, CA"
         },
         {
-            "city": "138",
-            "cases": "Iglesia Evangelica Emanuel",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "139",
+            "city": "128",
             "cases": "Imperial Crest Health Care Center",
             "rate": "Hawthorne, CA"
         },
         {
-            "city": "140",
+            "city": "129",
             "cases": "Imperial Healthcare Center",
             "rate": "La Mirada, CA"
         },
         {
-            "city": "141",
+            "city": "130",
             "cases": "Infinity Care East Los Angeles",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "142",
+            "city": "131",
             "cases": "Inglewood Health Care Center",
             "rate": "Inglewood, CA"
         },
         {
-            "city": "143",
+            "city": "132",
             "cases": "Inland Valley Care And Rehabilitation Center",
             "rate": "Pomona, CA"
         },
         {
-            "city": "144",
-            "cases": "Ivar/Delongpre Encampment",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "145",
+            "city": "133",
             "cases": "Joyce Eisenberg-Keefer Medical Center",
             "rate": "Reseda, CA"
         },
         {
-            "city": "146",
+            "city": "134",
             "cases": "Kei Ai Los Angeles Healthcare Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "147",
+            "city": "135",
             "cases": "Kei-Ai South Bay Healthcare Center",
             "rate": "Gardena, CA"
         },
         {
-            "city": "148",
+            "city": "136",
             "cases": "Kennedy Post Acute Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "149",
+            "city": "137",
             "cases": "Kingsley Manor Assisted Living (1)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "150",
+            "city": "138",
             "cases": "Kingsley Manor Assisted Living (2)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "151",
+            "city": "139",
             "cases": "Kingsley Manor Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "152",
+            "city": "140",
             "cases": "La Brea Rehabilitation Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "153",
+            "city": "141",
             "cases": "La Crescenta Healthcare Center",
             "rate": "La Crescenta, CA"
         },
         {
-            "city": "154",
-            "cases": "La Family Housing",
-            "rate": "North Hollywood, CA"
-        },
-        {
-            "city": "155",
+            "city": "142",
             "cases": "La Paz Geropsychiatric Center",
             "rate": "Paramount, CA"
         },
         {
-            "city": "156",
-            "cases": "Lafayette Multipurpose Community Center",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "157",
+            "city": "143",
             "cases": "Lake Balboa Care Center",
             "rate": "Van Nuys, CA"
         },
         {
-            "city": "158",
+            "city": "144",
             "cases": "Lakeview Terrace",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "159",
+            "city": "145",
             "cases": "Lakewood Healthcare Center",
             "rate": "Downey, CA"
         },
         {
-            "city": "160",
+            "city": "146",
             "cases": "Lakewood Park Manor",
             "rate": "Downey, CA"
         },
         {
-            "city": "161",
+            "city": "147",
             "cases": "Landmark Medical Center",
             "rate": "Pomona, CA"
         },
         {
-            "city": "162",
+            "city": "148",
             "cases": "Las Flores Convalescent Hospital",
             "rate": "Gardena, CA"
         },
         {
-            "city": "163",
+            "city": "149",
             "cases": "Lawndale Healthcare &amp; Wellness Centre, LLC",
             "rate": "Lawndale, CA"
         },
         {
-            "city": "164",
+            "city": "150",
             "cases": "Leisure Glen Post Acute Care Center",
             "rate": "Glendale, CA"
         },
         {
-            "city": "165",
+            "city": "151",
             "cases": "Leisure Vale Retirement Home",
             "rate": "Glendale, CA"
         },
         {
-            "city": "166",
+            "city": "152",
             "cases": "Little Company of Mary Subacute Care Center",
             "rate": "San Pedro, CA"
         },
         {
-            "city": "167",
+            "city": "153",
             "cases": "Little Sisters of The Poor",
             "rate": "San Pedro, CA"
         },
         {
-            "city": "168",
+            "city": "154",
             "cases": "Longwood Manor Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "169",
-            "cases": "Los Angeles Mission (Men's Shelter)",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "170",
-            "cases": "Los Angeles Mission - Anne Douglas Center",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "171",
+            "city": "155",
             "cases": "Lynwood Healthcare Center",
             "rate": "Lynwood, CA"
         },
         {
-            "city": "172",
+            "city": "156",
             "cases": "Maclay Healthcare Center",
             "rate": "Sylmar, CA"
         },
         {
-            "city": "173",
+            "city": "157",
             "cases": "Magnolia Gardens Conv. Hosp.",
             "rate": "Granada Hills, CA"
         },
         {
-            "city": "174",
+            "city": "158",
             "cases": "Maple Health Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "175",
+            "city": "159",
             "cases": "Marina Pointe Healthcare &amp; Subacute",
             "rate": "Culver City, CA"
         },
         {
-            "city": "176",
+            "city": "160",
             "cases": "Mayflower Gardens Convalescent Hospital",
             "rate": "Lancaster, CA"
         },
         {
-            "city": "177",
+            "city": "161",
             "cases": "Maywood Skilled Nursing &amp; Wellness Centre",
             "rate": "Maywood, CA"
         },
         {
-            "city": "178",
+            "city": "162",
             "cases": "Mcintyre House",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "179",
+            "city": "163",
             "cases": "Meadowbrook Senior Living Agoura Hills",
             "rate": "Agoura Hills, CA"
         },
         {
-            "city": "180",
+            "city": "164",
             "cases": "Men's Central Jail",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "181",
+            "city": "165",
             "cases": "Metropolitan Detention Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "182",
+            "city": "166",
             "cases": "Mid Wilshire Health Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "183",
+            "city": "167",
             "cases": "Monrovia Gardens Healthcare Center",
             "rate": "Monrovia, CA"
         },
         {
-            "city": "184",
+            "city": "168",
             "cases": "Monrovia Memorial Hospital",
             "rate": "Monrovia, CA"
         },
         {
-            "city": "185",
+            "city": "169",
             "cases": "Monte Cedro Retirement Comm",
             "rate": "Altadena, CA"
         },
         {
-            "city": "186",
+            "city": "170",
             "cases": "Monte Vista Healthcare Center",
             "rate": "Duarte, CA"
         },
         {
-            "city": "187",
+            "city": "171",
             "cases": "Montebello Care Center",
             "rate": "Montebello, CA"
         },
         {
-            "city": "188",
+            "city": "172",
             "cases": "Montecito Heights Healthcare &amp; Wellness Centre, LP.",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "189",
+            "city": "173",
             "cases": "Montrose Healthcare Center",
             "rate": "Montrose, CA"
         },
         {
-            "city": "190",
+            "city": "174",
             "cases": "Montrose Springs Skilled Nursing &amp; Wellness Center",
             "rate": "Montrose, CA"
         },
         {
-            "city": "191",
+            "city": "175",
             "cases": "Motion Picture &amp; Television Fund",
             "rate": "Woodland Hills, CA"
         },
         {
-            "city": "192",
+            "city": "176",
             "cases": "Mountain View Convalescent Hospital",
             "rate": "Sylmar, CA"
         },
         {
-            "city": "193",
+            "city": "177",
             "cases": "Mugunghwa Silvertown Assisted Living",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "194",
+            "city": "178",
             "cases": "National Support Services Home II",
             "rate": "North Hills, CA"
         },
         {
-            "city": "195",
+            "city": "179",
             "cases": "New Features Sober Living",
             "rate": "San Gabriel, CA"
         },
         {
-            "city": "196",
+            "city": "180",
             "cases": "New Vista Nursing And Rehabilitation Center",
             "rate": "Sunland, CA"
         },
         {
-            "city": "197",
-            "cases": "Normandale Recreation Center",
-            "rate": "Torrance, CA"
-        },
-        {
-            "city": "198",
+            "city": "181",
             "cases": "Normandie Place",
             "rate": "Gardena, CA"
         },
         {
-            "city": "199",
+            "city": "182",
             "cases": "North County Correctional Facility",
             "rate": "Castaic, CA"
         },
         {
-            "city": "200",
-            "cases": "North Hollywood Studio City Encampment",
-            "rate": "North Hollywood, CA"
-        },
-        {
-            "city": "201",
+            "city": "183",
             "cases": "North Valley Nursing Center",
             "rate": "Tujunga, CA"
         },
         {
-            "city": "202",
+            "city": "184",
             "cases": "Northridge Care Center",
             "rate": "Reseda, CA"
         },
         {
-            "city": "203",
+            "city": "185",
             "cases": "Norwalk Meadows Nursing Center",
             "rate": "Norwalk, CA"
         },
         {
-            "city": "204",
+            "city": "186",
             "cases": "Norwalk Skilled Nursing &amp; Wellness Centre",
             "rate": "Norwalk, CA"
         },
         {
-            "city": "205",
+            "city": "187",
             "cases": "Oakmont of Santa Clarita",
             "rate": "Santa Clarita, CA"
         },
         {
-            "city": "206",
+            "city": "188",
             "cases": "Oakmont of Valencia",
             "rate": "Santa Clarita, CA"
         },
         {
-            "city": "207",
+            "city": "189",
             "cases": "Oakpark Healthcare Center",
             "rate": "Tujunga, CA"
         },
         {
-            "city": "208",
+            "city": "190",
             "cases": "Ocean Pointe Healthcare Center",
             "rate": "Santa Monica, CA"
         },
         {
-            "city": "209",
+            "city": "191",
             "cases": "Olympia Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "210",
+            "city": "192",
             "cases": "Osage Healthcare &amp; Wellness Centre",
             "rate": "Inglewood, CA"
         },
         {
-            "city": "211",
+            "city": "193",
             "cases": "Pacific Post Acute",
             "rate": "Santa Monica, CA"
         },
         {
-            "city": "212",
+            "city": "194",
             "cases": "Pacific Sunrise Home",
             "rate": "Rancho Palos Verdes, CA"
         },
         {
-            "city": "213",
+            "city": "195",
             "cases": "Pacifica Senior Living",
             "rate": "Northridge, CA"
         },
         {
-            "city": "214",
+            "city": "196",
             "cases": "Palazzo Post Acute (1)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "215",
+            "city": "197",
             "cases": "Palazzo Post Acute (2)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "216",
+            "city": "198",
             "cases": "Palos Verdes Health Care Center",
             "rate": "Lomita, CA"
         },
         {
-            "city": "217",
-            "cases": "Pan Pacific Park Recreation Center",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "218",
+            "city": "199",
             "cases": "Panorama Gardens Nursing And Rehab Ctr",
             "rate": "Panorama City, CA"
         },
         {
-            "city": "219",
+            "city": "200",
             "cases": "Park Paseo Independent Living",
             "rate": "Glendale, CA"
         },
         {
-            "city": "220",
+            "city": "201",
             "cases": "Parkwest Healthcare Center SNF",
             "rate": "Reseda, CA"
         },
         {
-            "city": "221",
+            "city": "202",
             "cases": "Pasadena Park Healthcare &amp; Wellness Center",
             "rate": "Pasadena, CA"
         },
         {
-            "city": "222",
+            "city": "203",
             "cases": "Penn Mar Therapeutic Center",
             "rate": "El Monte, CA"
         },
         {
-            "city": "223",
+            "city": "204",
             "cases": "Pico Rivera Healthcare Center",
             "rate": "Pico Rivera, CA"
         },
         {
-            "city": "224",
+            "city": "205",
             "cases": "Pitchess Detention Facility",
             "rate": "Castaic, CA"
         },
         {
-            "city": "225",
+            "city": "206",
             "cases": "Playa Del Rey Center",
             "rate": "Playa Del Rey, CA"
         },
         {
-            "city": "226",
+            "city": "207",
             "cases": "Porter Ranch Aloha III",
             "rate": "Chatsworth, CA"
         },
         {
-            "city": "227",
+            "city": "208",
             "cases": "Primrose Post-Acute",
             "rate": "Inglewood, CA"
         },
         {
-            "city": "228",
+            "city": "209",
             "cases": "Private Boardinghouse",
             "rate": "Pacoima, CA"
         },
         {
-            "city": "229",
+            "city": "210",
             "cases": "Ramona Nursing And Rehabilitation Center",
             "rate": "El Monte, CA"
         },
         {
-            "city": "230",
-            "cases": "Renewed Hope",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "231",
+            "city": "211",
             "cases": "Rinaldi Convalescent Hospital",
             "rate": "Granada Hills, CA"
         },
         {
-            "city": "232",
+            "city": "212",
             "cases": "Rio Hondo Subacute &amp; Nursing Center",
             "rate": "Montebello, CA"
         },
         {
-            "city": "233",
+            "city": "213",
             "cases": "Riviera Healthcare Center",
             "rate": "Pico Rivera, CA"
         },
         {
-            "city": "234",
+            "city": "214",
             "cases": "Rosecrans Villa",
             "rate": "Hawthorne, CA"
         },
         {
-            "city": "235",
+            "city": "215",
             "cases": "Royal Gardens Healthcare",
             "rate": "Alhambra, CA"
         },
         {
-            "city": "236",
+            "city": "216",
             "cases": "Royal Palms Post Acute",
             "rate": "Glendale, CA"
         },
         {
-            "city": "237",
+            "city": "217",
             "cases": "Royal Vista Care Center",
             "rate": "San Gabriel, CA"
         },
         {
-            "city": "238",
+            "city": "218",
             "cases": "Royalwood Care Center",
             "rate": "Torrance, CA"
         },
         {
-            "city": "239",
-            "cases": "Safe Sleep Program",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "240",
-            "cases": "Salvation Army Hope Harbor",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "241",
+            "city": "219",
             "cases": "Santa Anita Convalescent Hospital",
             "rate": "Temple City, CA"
         },
         {
-            "city": "242",
+            "city": "220",
             "cases": "Santa Fe Skilled Nursing Facility",
             "rate": "El Monte, CA"
         },
         {
-            "city": "243",
+            "city": "221",
             "cases": "Santa Monica Convalescent Center II",
             "rate": "Santa Monica, CA"
         },
         {
-            "city": "244",
+            "city": "222",
             "cases": "Santa Teresita Manor",
             "rate": "Duarte, CA"
         },
         {
-            "city": "245",
+            "city": "223",
             "cases": "Sepulveda Residential",
             "rate": "Van Nuys, CA"
         },
         {
-            "city": "246",
+            "city": "224",
             "cases": "Shadow Hills Convalescent Hospital",
             "rate": "Sunland, CA"
         },
         {
-            "city": "247",
+            "city": "225",
             "cases": "Sherman Oaks Health &amp; Rehabilitation Center",
             "rate": "Sherman Oaks, CA"
         },
         {
-            "city": "248",
+            "city": "226",
             "cases": "Silverado Beverly Place",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "249",
+            "city": "227",
             "cases": "Silverado Calabasas Assisted Living",
             "rate": "Calabasas, CA"
         },
         {
-            "city": "250",
+            "city": "228",
             "cases": "Skyline Healthcare Center-Los Angeles",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "251",
+            "city": "229",
             "cases": "Solheim Senior Community (Assisted Living)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "252",
+            "city": "230",
             "cases": "Solheim Senior Community (SNF)",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "253",
-            "cases": "Soto St/ Washington Encampment",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "254",
+            "city": "231",
             "cases": "South Pasadena Care Center",
             "rate": "South Pasadena, CA"
         },
         {
-            "city": "255",
+            "city": "232",
             "cases": "Southland Care Center",
             "rate": "Norwalk, CA"
         },
         {
-            "city": "256",
+            "city": "233",
             "cases": "Specialized Residential - Hargis",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "257",
+            "city": "234",
             "cases": "Starview Adolescent Center",
             "rate": "Torrance, CA"
         },
         {
-            "city": "258",
+            "city": "235",
             "cases": "Stoney Point Healthcare Center",
             "rate": "Chatsworth, CA"
         },
         {
-            "city": "259",
+            "city": "236",
             "cases": "Studio City Rehabilitation Center",
             "rate": "Studio City, CA"
         },
         {
-            "city": "260",
+            "city": "237",
             "cases": "Sunnyside Nursing Center",
             "rate": "Torrance, CA"
         },
         {
-            "city": "261",
+            "city": "238",
             "cases": "Sunnyview Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "262",
+            "city": "239",
             "cases": "Sunray Health Care Center.",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "263",
+            "city": "240",
             "cases": "Sunrise Assisted Living Studio City",
             "rate": "Studio City, CA"
         },
         {
-            "city": "264",
+            "city": "241",
             "cases": "Sunrise Villa Culver City",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "265",
+            "city": "242",
             "cases": "Sylmar Health And Rehab Center",
             "rate": "Sylmar, CA"
         },
         {
-            "city": "266",
+            "city": "243",
             "cases": "Tarzana Health And Rehabilitation Center",
             "rate": "Tarzana, CA"
         },
         {
-            "city": "267",
+            "city": "244",
             "cases": "Temple City Healthcare",
             "rate": "Arcadia Uninc., CA"
         },
         {
-            "city": "268",
+            "city": "245",
             "cases": "The Earlwood",
             "rate": "Torrance, CA"
         },
         {
-            "city": "269",
+            "city": "246",
             "cases": "The Grove Post-Acute Care Center",
             "rate": "Sylmar, CA"
         },
         {
-            "city": "270",
+            "city": "247",
             "cases": "The Heights At Burbank",
             "rate": "Burbank, CA"
         },
         {
-            "city": "271",
+            "city": "248",
             "cases": "The Meadows Post Acute",
             "rate": "Panorama City, CA"
         },
         {
-            "city": "272",
-            "cases": "The Midnight Mission",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "273",
+            "city": "249",
             "cases": "The Orchard Post Acute Care",
             "rate": "Whittier, CA"
         },
         {
-            "city": "274",
+            "city": "250",
             "cases": "The Rehabilitation Center of Santa Monica",
             "rate": "Santa Monica, CA"
         },
         {
-            "city": "275",
+            "city": "251",
             "cases": "The Rehabilitation Centre of Beverly Hills",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "276",
+            "city": "252",
             "cases": "Toluca Congregate Living Health Facility (CLHF)",
             "rate": "Valley Glen, CA"
         },
         {
-            "city": "277",
+            "city": "253",
             "cases": "Torrance Care Center West, Inc",
             "rate": "Torrance, CA"
         },
         {
-            "city": "278",
+            "city": "254",
             "cases": "Twin Towers Correctional Facility",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "279",
+            "city": "255",
             "cases": "UCP Longo House",
             "rate": "Chatsworth, CA"
         },
         {
-            "city": "280",
-            "cases": "Union Rescue Mission",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "281",
+            "city": "256",
             "cases": "University Park Healthcare Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "282",
+            "city": "257",
             "cases": "VA Community Living Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "283",
+            "city": "258",
             "cases": "Valley Grace Home",
             "rate": "North Hills, CA"
         },
         {
-            "city": "284",
+            "city": "259",
             "cases": "Valley Palms Care Center",
             "rate": "North Hollywood, CA"
         },
         {
-            "city": "285",
+            "city": "260",
             "cases": "Valley Vista Nursing And Transitional Care LLC",
             "rate": "North Hollywood, CA"
         },
         {
-            "city": "286",
+            "city": "261",
             "cases": "Van Nuys Health Care Center",
             "rate": "Van Nuys, CA"
         },
         {
-            "city": "287",
+            "city": "262",
             "cases": "Vernon Healthcare Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "288",
+            "city": "263",
             "cases": "Veterans Home of California - West Los Angeles",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "289",
+            "city": "264",
             "cases": "View Park Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "290",
+            "city": "265",
             "cases": "Villa Scalabrini",
             "rate": "Sun Valley, CA"
         },
         {
-            "city": "291",
+            "city": "266",
             "cases": "Virgil Convalescent Hospital",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "292",
+            "city": "267",
             "cases": "Virginia House",
             "rate": "Tarzana, CA"
         },
         {
-            "city": "293",
+            "city": "268",
             "cases": "Vista Del Sol Care Center",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "294",
+            "city": "269",
             "cases": "Vista Veranda",
             "rate": "Lynwood, CA"
         },
         {
-            "city": "295",
-            "cases": "Volunteers of America - T House",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "296",
+            "city": "270",
             "cases": "Wayfinder Family Services",
             "rate": "View Park, CA"
         },
         {
-            "city": "297",
-            "cases": "Weingart Center AB109",
-            "rate": "Los Angeles, CA"
-        },
-        {
-            "city": "298",
+            "city": "271",
             "cases": "West Haven Healthcare Ctr",
             "rate": "West Covina, CA"
         },
         {
-            "city": "299",
+            "city": "272",
             "cases": "West Hills Health And Rehab",
             "rate": "Canoga Park, CA"
         },
         {
-            "city": "300",
+            "city": "273",
             "cases": "West Valley Post Acute",
             "rate": "West Hills, CA"
         },
         {
-            "city": "301",
+            "city": "274",
             "cases": "Whittier Hills Health Care Center",
             "rate": "Whittier, CA"
         },
         {
-            "city": "302",
+            "city": "275",
             "cases": "Whittier Pacific Care Center",
             "rate": "Whittier, CA"
         },
         {
-            "city": "303",
-            "cases": "Whittier/ Belden Encampment",
-            "rate": "Commerce, CA"
-        },
-        {
-            "city": "304",
+            "city": "276",
             "cases": "Windsor Care Center of Cheviot Hills",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "305",
+            "city": "277",
             "cases": "Windsor Gardens Convalescent Center of Hawthorne",
             "rate": "Hawthorne, CA"
         },
         {
-            "city": "306",
+            "city": "278",
             "cases": "Windsor Hall Care Home",
             "rate": "Los Angeles, CA"
         },
         {
-            "city": "307",
+            "city": "279",
             "cases": "Windsor Terrace Healthcare Center",
             "rate": "Van Nuys, CA"
         },
         {
-            "city": "308",
+            "city": "280",
             "cases": "Woodland Care Center",
             "rate": "Reseda, CA"
         },
@@ -3362,7 +3362,7 @@
         },
         {
             "city": "1",
-            "cases": "Ahmanson Recruit Training Center",
+            "cases": "Ahmanson Recruit Training Center *",
             "rate": "5651 W Manchester Ave, Los Angeles, CA, 90045"
         },
         {
@@ -3382,13 +3382,13 @@
         },
         {
             "city": "5",
-            "cases": "California Farms Meat Company",
-            "rate": "4451 S Downey Rd, Vernon, CA, 90058"
+            "cases": "CLW Foods",
+            "rate": "3425 E Vernon Ave, Vernon, CA, 90058"
         },
         {
             "city": "6",
-            "cases": "CLW Foods",
-            "rate": "3425 E Vernon Ave, Vernon, CA, 90058"
+            "cases": "California Farms Meat Company",
+            "rate": "4451 S Downey Rd, Vernon, CA, 90058"
         },
         {
             "city": "7",
@@ -3397,78 +3397,78 @@
         },
         {
             "city": "8",
+            "cases": "Department of Public Social Services",
+            "rate": "5445 Whittier Blvd, Los Angeles, CA, 90022"
+        },
+        {
+            "city": "9",
             "cases": "Domino's Pizza",
             "rate": "3631 Crenshaw Blvd Ste 113, Los Angeles, CA, 90016"
         },
         {
-            "city": "9",
+            "city": "10",
             "cases": "East Los Angeles Sherriff's Station",
             "rate": "5019 E 3rd St, Los Angeles, CA, 90022"
         },
         {
-            "city": "10",
+            "city": "11",
             "cases": "F. Gavina &amp; Sons Inc",
             "rate": "2700 Fruitland Ave, Vernon, CA, 90058"
         },
         {
-            "city": "11",
+            "city": "12",
             "cases": "Fresh And Ready Foods",
             "rate": "1145 Arroyo St Unit B, San Fernando, CA, 91340"
         },
         {
-            "city": "12",
+            "city": "13",
             "cases": "Golden West Food Group",
             "rate": "4401 S Downey Rd, Vernon, CA, 90058"
         },
         {
-            "city": "13",
+            "city": "14",
             "cases": "Kia of DTLA Service/Parts",
             "rate": "1945 S Flower St, Los Angeles, CA, 90007"
         },
         {
-            "city": "14",
+            "city": "15",
             "cases": "LAC DPSS Florence Office",
             "rate": "1740 E Gage Ave, Los Angeles, CA, 90001"
         },
         {
-            "city": "15",
+            "city": "16",
             "cases": "Mission Food",
             "rate": "14200 Arminta St, Panorama City, CA, 91402"
         },
         {
-            "city": "16",
+            "city": "17",
             "cases": "Northgate Gonzalez Markets",
             "rate": "10801 S Prairie Ave, Inglewood, CA, 90303"
         },
         {
-            "city": "17",
+            "city": "18",
             "cases": "Overhill Farms Inc",
             "rate": "2727 E Vernon Ave, Vernon, CA, 90058"
         },
         {
-            "city": "18",
+            "city": "19",
             "cases": "Ralphs #759",
             "rate": "10861 Weyburn Ave, Los Angeles, CA, 90024"
         },
         {
-            "city": "19",
+            "city": "20",
             "cases": "Ralphs Hollywood",
             "rate": "7257 W Sunset Blvd, Los Angeles, CA, 90046"
         },
         {
-            "city": "20",
+            "city": "21",
             "cases": "Ralphs Ice Plant And Warehouse",
             "rate": "2201 S Wilmington Ave, Compton, CA, 90220"
         },
         {
-            "city": "21",
+            "city": "22",
             "cases": "Rose &amp; Shore Inc",
             "rate": "5151 Alcoa Ave # 5151, Vernon, CA, 90058"
-        },
-        {
-            "city": "22",
-            "cases": "Skid Row Community Refresh Spot",
-            "rate": "557 Crocker St, Los Angeles, CA, 90013"
         },
         {
             "city": "23",
@@ -3482,28 +3482,203 @@
         },
         {
             "city": "25",
-            "cases": "Takaokaya Usa Inc",
-            "rate": "5600 Bickett St, Vernon, CA, 90058"
-        },
-        {
-            "city": "26",
             "cases": "Vie De France Yamazaki",
             "rate": "3046 E 50th St, Vernon, CA, 90058"
         },
         {
-            "city": "27",
+            "city": "26",
             "cases": "Vons Glendale",
             "rate": "311 W Los Feliz Rd, Glendale, CA, 91204"
         },
         {
-            "city": "28",
+            "city": "27",
             "cases": "Western General Insurance Company",
             "rate": "5230 Las Virgenes Rd, Calabasas, CA, 91302"
         },
         {
-            "city": "29",
+            "city": "28",
             "cases": "Williams Sonoma Warehouse",
             "rate": "21508 Baker Pkwy, Walnut, CA, 91789"
+        },
+        {
+            "city": "Total",
+            "cases": "",
+            "rate": ""
+        },
+        {
+            "city": "1",
+            "cases": "A Bridge Home - St. Andrew's",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "2",
+            "cases": "A Bridge Home- Casa Azul",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "3",
+            "cases": "Bryant Temple Women's Winter Shelter",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "4",
+            "cases": "Cheviot Hills Rec Center",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "5",
+            "cases": "Encampment - Van Nuys",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "6",
+            "cases": "Encampment - Boyle Heights",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "7",
+            "cases": "Encampment - Commerce",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "8",
+            "cases": "Encampment - Grand Avenue Corridor",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "9",
+            "cases": "Encampment - Hollywood",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "10",
+            "cases": "Encampment - North Hollywood Studio City",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "11",
+            "cases": "Encampment-Sun Valley",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "12",
+            "cases": "First To Serve - Coronado",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "13",
+            "cases": "Good Seed Shelter",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "14",
+            "cases": "Granada Hills Recreation Center",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "15",
+            "cases": "Green Meadows Recreation Center",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "16",
+            "cases": "Harbor Recuperative Care",
+            "rate": "Recuperative Care Center"
+        },
+        {
+            "city": "17",
+            "cases": "Home At Last - Men's Interim Housing",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "18",
+            "cases": "Home At Last- Manchester",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "19",
+            "cases": "Iglesia Evangelica Emanuel",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "20",
+            "cases": "La Family Housing",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "21",
+            "cases": "Lafayette Multipurpose Community Center",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "22",
+            "cases": "Los Angeles Mission - Anne Douglas Center",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "23",
+            "cases": "Los Angeles Mission - Men's Shelter",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "24",
+            "cases": "Normandale Recreation Center",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "25",
+            "cases": "Pan Pacific Park Recreation Center",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "26",
+            "cases": "Renewed Hope",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "27",
+            "cases": "Safe Sleep Program",
+            "rate": "Homeless Encampment"
+        },
+        {
+            "city": "28",
+            "cases": "Salvation Army Bell Shelter",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "29",
+            "cases": "Salvation Army Hope Harbor",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "30",
+            "cases": "Skid Row Community Refresh Spot",
+            "rate": "Homeless Hygiene Center"
+        },
+        {
+            "city": "31",
+            "cases": "South La Women's Shelter",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "32",
+            "cases": "The Midnight Mission",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "33",
+            "cases": "Union Rescue Mission",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "34",
+            "cases": "Volunteers of America - T House",
+            "rate": "Homeless Shelter"
+        },
+        {
+            "city": "35",
+            "cases": "Weingart Center AB109",
+            "rate": "Homeless Shelter"
         },
         {
             "city": "Total",
